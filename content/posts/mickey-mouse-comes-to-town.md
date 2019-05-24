@@ -6,7 +6,8 @@ featured_image = ""
 meta_description = "The quick brown fox jumps over the lazy dogs"
 meta_document_title = "Mickey mouse leaves the house and goes to town"
 meta_keywords = "test, mickey, mickey mouse, disney, cartoon"
-summary = "Mickey mouse goes to town, and bags himself a deal of the week, if not the year"
+opengraph_type = ""
+summary = "Mickey mouse goes to town, and bags himself a deal of the week, if not the year. Certainly the day."
 tags = ["mickey", "mouse", "disney", "cartoon", "toon", "mickey mouse", "Walt Disney"]
 title = "Mickey mouse comes to town"
 
