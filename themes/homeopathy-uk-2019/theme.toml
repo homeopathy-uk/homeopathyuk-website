@@ -1,0 +1,21 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Homeopathy UK 2019 Theme"
+license = "MIT"
+licenselink = "https://github.com/homeopathy-uk/homeopathyuk-website/homeopathy-uk-2019/blob/master/LICENSE"
+description = ""
+homepage = "http://homeopathy-uk.org/"
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Sacha El Masry"
+  homepage = "https://sachamasry.com/"
+
+# If porting an existing theme
+[original]
+  name = "Starter Theme"
+  homepage = "https://jimfrenette.com/2019/02/hugo-static-site-generator-blank-starter-theme/"
+  repo = "https://github.com/jimfrenette/hugo-starter.git"

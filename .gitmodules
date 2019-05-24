@@ -1,3 +1,9 @@
 [submodule "themes/starter"]
 	path = themes/starter
 	url = https://github.com/jimfrenette/hugo-starter.git
+[submodule "hugo-serif-theme"]
+	path = hugo-serif-theme
+	url = https://github.com/jugglerx/hugo-serif-theme.git
+[submodule "themes/hugo-serif-theme"]
+	path = themes/hugo-serif-theme
+	url = https://github.com/jugglerx/hugo-serif-theme.git
