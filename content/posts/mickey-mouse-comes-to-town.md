@@ -1,5 +1,5 @@
 +++
-categories = ["articles"]
+categories = ["Featured articles", "News", "Media centre"]
 categoriesx = ["cartoon", "mickey"]
 date = "2019-05-24T12:27:29+00:00"
 draft = true
