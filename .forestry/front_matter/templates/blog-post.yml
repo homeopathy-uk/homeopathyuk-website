@@ -50,11 +50,6 @@ fields:
     required: false
   label: Meta keywords
   description: Metadata keywords to provide to search engines
-- name: categories
-  type: tag_list
-  default: []
-  label: Categories
-  description: To what category(ies) does this page belong?
 - name: tags
   type: tag_list
   default: []
