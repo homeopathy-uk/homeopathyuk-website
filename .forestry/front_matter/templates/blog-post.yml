@@ -1,6 +1,7 @@
 ---
 label: Blog post
 hide_body: false
+display_field: title
 fields:
 - name: title
   type: text
@@ -66,19 +67,11 @@ fields:
   label: Featured image
   description: Select a image to represent this post in listings
 - name: opengraph_type
-  type: select
-  default: article
+  type: text
   config:
     required: true
-    options:
-    - article
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: OpenGraph type
-  description: Type of page
+  label: Opengraph type
   hidden: true
+  default: article
 pages:
 - content/posts/mickey-mouse-comes-to-town.md
