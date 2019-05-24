@@ -58,9 +58,9 @@ fields:
     max: 
     source:
       type: documents
-      section: ''
-      path: ''
-      file: 
+      section: pages
+      path: categories
+      file: content/categories-dictionary.md
   label: Categories
 - name: tags
   type: tag_list
