@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:58:59+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "british-homeopathic-association-did-not-misrepresent-evidence-to-mps"
 title = "British Homeopathic Association did not misrepresent evidence to MPs"
 

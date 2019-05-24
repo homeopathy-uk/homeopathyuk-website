@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-05-23 17:43:52+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "third-of-pcts-still-fund-homeopathy"
 title = "Third of PCTs still fund homeopathy"
 

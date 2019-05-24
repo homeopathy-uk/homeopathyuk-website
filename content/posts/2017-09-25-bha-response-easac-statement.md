@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "Media Centre", "News"]
 date = "2017-09-25 10:32:41+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "bha-response-easac-statement"
 title = "BHA Response to the EASAC Statement"
 

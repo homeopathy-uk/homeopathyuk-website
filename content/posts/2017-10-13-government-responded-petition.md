@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "Media Centre", "News"]
 date = "2017-10-13 16:28:46+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "government-responded-petition"
 tags = ["consultation", "homeopathic medicines", "nhs", "NHS England", "save homeopathy"]
 title = "The Government has responded to our petition"

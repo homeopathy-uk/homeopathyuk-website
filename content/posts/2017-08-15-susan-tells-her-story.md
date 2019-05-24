@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2017-08-15 08:22:52+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "susan-tells-her-story"
 title = "Susan tells her story"
 

@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-05-23 17:46:23+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "southampton-university-arthritis-study-proves-more-research-is-needed"
 title = "Southampton University arthritis study proves more research is needed"
 

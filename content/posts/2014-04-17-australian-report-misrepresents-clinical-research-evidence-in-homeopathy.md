@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2014-04-17 16:39:04+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "australian-report-misrepresents-clinical-research-evidence-in-homeopathy"
 title = "Australian report misrepresents clinical research evidence in homeopathy"
 

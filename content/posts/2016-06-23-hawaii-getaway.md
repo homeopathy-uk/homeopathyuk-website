@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2016-06-23 13:56:04+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 published = false
 slug = "hawaii-getaway"
 tags = ["featured"]

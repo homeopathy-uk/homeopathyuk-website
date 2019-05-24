@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2018-03-20 14:02:13+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "cam-found-reduce-antibiotic-prescribing"
 tags = ["CAM"]
 title = "CAM found to reduce antibiotic prescribing"

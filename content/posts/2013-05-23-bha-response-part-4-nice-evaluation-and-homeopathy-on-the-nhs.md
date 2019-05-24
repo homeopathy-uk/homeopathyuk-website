@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:56:12+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "bha-response-part-4-nice-evaluation-and-homeopathy-on-the-nhs"
 title = "BHA Response Part 4: NICE evaluation and Homeopathy on the NHS"
 

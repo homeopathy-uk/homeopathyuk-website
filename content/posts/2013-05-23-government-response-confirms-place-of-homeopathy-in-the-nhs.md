@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:49:09+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "government-response-confirms-place-of-homeopathy-in-the-nhs"
 title = "Government response confirms place of homeopathy in the NHS"
 

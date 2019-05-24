@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:03:11+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "kings-fund-more-research-is-needed"
 title = "King's Fund: more research is needed"
 

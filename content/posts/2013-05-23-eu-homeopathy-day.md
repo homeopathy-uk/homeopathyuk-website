@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:06:26+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "eu-homeopathy-day"
 title = "EU Homeopathy Day"
 

@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-08-06 23:39:41+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "research-initiative-studying-atopic-dermatitis-in-dogs"
 title = "Research initiative studying atopic dermatitis in dogs"
 

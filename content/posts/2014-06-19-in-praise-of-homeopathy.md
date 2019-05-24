@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2014-06-19 15:26:03+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "in-praise-of-homeopathy"
 title = "In praise of homeopathy"
 

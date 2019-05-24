@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2017-11-10 15:54:27+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "thousands-support-nhs-homeopathy"
 tags = ["consultation", "homeopathic medicines", "nhs", "NHS England", "parliamentary petition", "save homeopathy"]
 title = "Thousands support NHS homeopathy"

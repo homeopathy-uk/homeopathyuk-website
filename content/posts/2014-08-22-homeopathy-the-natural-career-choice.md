@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2014-08-22 13:42:58+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "homeopathy-the-natural-career-choice"
 title = "Homeopathy – the natural career choice"
 

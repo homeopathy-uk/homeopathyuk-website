@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:59:37+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "british-medical-journal-publishes-bhas-account-of-research-evidence-in-homeopathy"
 title = "British Medical Journal publishes BHA's account of research evidence in homeopathy"
 

@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles"]
 date = "2017-12-19 11:34:52+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "petition-reaches-25000-signatures"
 tags = ["NHS England", "parliamentary petition", "save homeopathy"]
 title = "Petition reaches 25,000 signatures"

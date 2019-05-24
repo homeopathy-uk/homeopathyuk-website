@@ -3,6 +3,7 @@ categories = ["BHA Blog", "featured articles", "News"]
 date = "2019-01-29 11:39:25+00:00"
 new-URL = "NHS"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "mps-recommend-complementary-traditional-and-natural-medicine-to-help-overstretched-nhs"
 tags = ["alternative medicine", "complementary medicine", "illness", "MP", "nhs", "PGIH", "traditional medicine"]
 title = "MPs recommend complementary, traditional and natural medicine to help overstretched"

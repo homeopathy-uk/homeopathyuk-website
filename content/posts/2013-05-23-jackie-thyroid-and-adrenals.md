@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-05-23 17:36:19+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "jackie-thyroid-and-adrenals"
 title = "Jackie, thyroid and adrenals"
 

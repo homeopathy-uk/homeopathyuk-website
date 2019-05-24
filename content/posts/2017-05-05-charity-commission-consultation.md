@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2017-05-05 15:13:55+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "charity-commission-consultation"
 title = "Charity Commission Consultation"
 

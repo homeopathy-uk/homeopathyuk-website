@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:08:40+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "lancet-review-was-flawed"
 title = "Lancet review was 'flawed'"
 

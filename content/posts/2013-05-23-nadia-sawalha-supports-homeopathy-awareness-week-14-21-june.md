@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:51:24+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "nadia-sawalha-supports-homeopathy-awareness-week-14-21-june"
 title = "Nadia Sawalha supports Homeopathy Awareness Week - 14 -21 June"
 

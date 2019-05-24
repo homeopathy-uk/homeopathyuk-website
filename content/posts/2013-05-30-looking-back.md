@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-05-30 14:05:28+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "looking-back"
 title = "Looking back"
 

@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-10-01 01:54:32+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 published = false
 slug = "ordered-list"
 title = "Sample Post With an Ordered List"

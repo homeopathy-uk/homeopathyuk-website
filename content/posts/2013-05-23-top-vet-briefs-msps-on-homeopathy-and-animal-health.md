@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-05-23 17:39:34+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "top-vet-briefs-msps-on-homeopathy-and-animal-health"
 title = "Top vet briefs MSPs on homeopathy and animal health"
 

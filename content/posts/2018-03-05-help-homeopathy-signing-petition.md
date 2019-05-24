@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2018-03-05 13:19:25+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "help-homeopathy-signing-petition"
 title = "Help homeopathy by signing our petition"
 

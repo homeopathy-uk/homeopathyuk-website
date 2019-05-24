@@ -2,6 +2,7 @@
 categories = ["Find a group"]
 date = "2013-05-23 17:13:54+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "east-anglia"
 title = "East Anglia"
 

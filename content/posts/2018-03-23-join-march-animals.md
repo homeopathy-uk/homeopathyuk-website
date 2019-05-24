@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles"]
 date = "2018-03-23 12:52:49+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "join-march-animals"
 tags = ["animals", "BAHVS", "RCVS"]
 title = "Join the March for Animals"

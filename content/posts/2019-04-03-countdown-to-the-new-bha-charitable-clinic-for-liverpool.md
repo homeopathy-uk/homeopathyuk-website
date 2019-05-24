@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "Media Centre", "News"]
 date = "2019-04-03 11:15:00+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "countdown-to-the-new-bha-charitable-clinic-for-liverpool"
 tags = ["BHA-supported clinics", "charitable clinic", "homeopathy clinics"]
 title = "Countdown to the new BHA charitable clinic for Liverpool"

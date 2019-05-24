@@ -3,6 +3,7 @@ categories = ["Media Centre"]
 date = "2013-05-23 17:47:11+00:00"
 new-URL = "Medicine"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "royal-london-homeopathic-hospital-becomes-the-royal-london-hospital-for-integrated-medicine"
 title = "Royal London Homeopathic Hospital becomes the Royal London Hospital for Integrated"
 

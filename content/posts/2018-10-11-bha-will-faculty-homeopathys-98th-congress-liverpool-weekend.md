@@ -3,6 +3,7 @@ categories = ["BHA Blog", "featured articles", "News"]
 date = "2018-10-11 23:52:48+00:00"
 new-URL = "weekend!"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "bha-will-faculty-homeopathys-98th-congress-liverpool-weekend"
 tags = ["2018", "congress", "Faculty of Homeopathy"]
 title = "BHA will be at the Faculty of Homeopathy’s 98th Congress in Liverpool this"

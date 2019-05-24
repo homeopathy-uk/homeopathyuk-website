@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2017-11-03 11:15:51+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "keep-pressure-nhs-england"
 tags = ["consultation", "NHS England"]
 title = "Keep the pressure on NHS England"

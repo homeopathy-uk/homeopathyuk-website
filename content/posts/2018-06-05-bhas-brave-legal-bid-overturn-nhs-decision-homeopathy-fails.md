@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "Media Centre", "News"]
 date = "2018-06-05 13:01:05+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "bhas-brave-legal-bid-overturn-nhs-decision-homeopathy-fails"
 tags = ["BHA-supported clinics", "charitable clinic", "consultation", "homeopathic medicines", "judicial review", "NHS England", "primary care prescribing", "save homeopathy"]
 title = "BHA’s brave legal bid to overturn NHS decision on homeopathy fails"

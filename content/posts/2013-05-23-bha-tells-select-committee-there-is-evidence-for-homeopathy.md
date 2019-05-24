@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:00:33+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "bha-tells-select-committee-there-is-evidence-for-homeopathy"
 title = "BHA tells select committee there is evidence for homeopathy"
 

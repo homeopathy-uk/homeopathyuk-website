@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-05-23 17:37:20+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "first-full-study-of-rcts-in-veterinary-homeopathy-published"
 title = "First full study of RCTs in veterinary homeopathy published"
 

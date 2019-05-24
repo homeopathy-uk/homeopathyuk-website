@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles"]
 date = "2018-05-01 09:09:22+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "pm-secret-supporter-homeopathy"
 title = "Is the PM a secret supporter of homeopathy?"
 

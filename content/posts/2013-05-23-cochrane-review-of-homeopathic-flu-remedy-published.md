@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-05-23 17:36:39+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "cochrane-review-of-homeopathic-flu-remedy-published"
 title = "Cochrane review of homeopathic flu remedy published"
 

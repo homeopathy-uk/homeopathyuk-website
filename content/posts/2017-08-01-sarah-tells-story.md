@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2017-08-01 13:07:37+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "sarah-tells-story"
 tags = ["Homeopathy Worked for Me"]
 title = "Sarah tells her story"

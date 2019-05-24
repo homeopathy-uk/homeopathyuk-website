@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2018-11-13 12:11:45+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "bha-trustees-and-patrons-reception"
 title = "BHA Trustees' and Patrons' Reception"
 

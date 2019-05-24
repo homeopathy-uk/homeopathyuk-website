@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2018-11-16 17:17:48+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "health-and-homeopathy-magazine-now-online"
 tags = ["health and homeopathy", "magazine"]
 title = "Health and Homeopathy magazine now online"

@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-05-23 17:35:57+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "lauren-26-rheumatoid-arthritis"
 title = "Lauren, 26, Rheumatoid Arthritis"
 

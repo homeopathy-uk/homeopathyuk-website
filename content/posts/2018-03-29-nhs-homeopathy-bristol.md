@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2018-03-29 13:22:01+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "nhs-homeopathy-bristol"
 tags = ["Bristol", "consultation", "homeopathic services", "save homeopathy"]
 title = "NHS homeopathy in Bristol"

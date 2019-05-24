@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-05-23 17:44:59+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "stunt-dismissed-again"
 title = "Stunt Dismissed Again"
 

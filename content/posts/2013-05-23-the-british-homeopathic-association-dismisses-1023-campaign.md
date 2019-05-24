@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:59:56+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "the-british-homeopathic-association-dismisses-1023-campaign"
 title = "The British Homeopathic Association dismisses 10:23 campaign"
 

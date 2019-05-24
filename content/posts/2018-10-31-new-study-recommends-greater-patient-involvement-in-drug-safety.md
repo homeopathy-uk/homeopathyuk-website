@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2018-10-31 11:29:22+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "new-study-recommends-greater-patient-involvement-in-drug-safety"
 tags = ["complementary medicine", "drug testing", "homeopathy", "medicine", "pharmaceuticals", "pharmacovigilance"]
 title = "New study recommends greater patient involvement in drug safety"

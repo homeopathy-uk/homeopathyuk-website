@@ -2,6 +2,7 @@
 categories = ["featured articles"]
 date = "2017-03-06 03:29:59+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "is-homeopathy-safe"
 title = "Is homeopathy safe?"
 

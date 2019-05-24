@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2017-11-10 13:57:25+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "helen-beaumont-homeopathy-judicial-review"
 tags = ["consultation", "homeopathic medicines", "homeopathy is effective", "nhs", "NHS England", "save homeopathy"]
 title = "Helen Beaumont on homeopathy and the Judicial Review"

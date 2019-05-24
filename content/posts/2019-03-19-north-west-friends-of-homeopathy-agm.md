@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "Media Centre", "News"]
 date = "2019-03-19 17:26:30+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "north-west-friends-of-homeopathy-agm"
 tags = ["AGM", "depression", "homeopathy", "liverpool"]
 title = "North West Friends of Homeopathy AGM"

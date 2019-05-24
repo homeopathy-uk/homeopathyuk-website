@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-05-31 09:53:09+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "one-to-one-with-debra-stephenson"
 title = "One to one with Debra Stephenson"
 

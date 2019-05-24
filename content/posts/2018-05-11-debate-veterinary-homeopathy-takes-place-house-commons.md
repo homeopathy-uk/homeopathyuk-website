@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "Media Centre", "News"]
 date = "2018-05-11 10:31:37+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "debate-veterinary-homeopathy-takes-place-house-commons"
 tags = ["animals", "homeopathy for animals", "veterinary homeopathy"]
 title = "Debate about veterinary homeopathy takes place in the house of commons"

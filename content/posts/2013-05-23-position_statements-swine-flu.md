@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-05-23 17:38:54+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "position_statements-swine-flu"
 title = "Swine flu"
 

@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2017-11-30 16:58:51+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "nhs-england-homeopathy"
 tags = ["consultation", "homeopathic medicines", "nhs", "NHS England", "save homeopathy"]
 title = "NHS England and homeopathy"

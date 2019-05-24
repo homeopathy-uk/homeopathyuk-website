@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "Media Centre", "News"]
 date = "2019-02-08 13:58:39+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "new-magic-pills-screening-in-london"
 tags = ["film screening", "Magic Pills"]
 title = "New Magic Pills Screening in London"

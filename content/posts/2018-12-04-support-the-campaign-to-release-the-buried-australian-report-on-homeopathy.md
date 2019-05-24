@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "Media Centre", "News"]
 date = "2018-12-04 16:05:14+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "support-the-campaign-to-release-the-buried-australian-report-on-homeopathy"
 tags = ["Australia", "NHMRC", "petition", "Release the First Report"]
 title = "Support the Campaign to Release the \"buried\" Australian Report on Homeopathy"

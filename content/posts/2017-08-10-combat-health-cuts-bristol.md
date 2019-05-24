@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "News"]
 date = "2017-08-10 12:50:14+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "combat-health-cuts-bristol"
 tags = ["Bristol", "consultation", "homeopathic medicines", "nhs", "NHS Bristol CCG"]
 title = "Combat health cuts in Bristol"

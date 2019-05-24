@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "Media Centre", "News"]
 date = "2018-05-04 13:03:44+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "charity-awaits-judgement-nhs-england-legal-challenge"
 tags = ["CAM", "consultation", "homeopathic medicines", "judicial review", "nhs", "NHS England", "primary care prescribing", "save homeopathy"]
 title = "Charity awaits judgement on its NHS England legal challenge"

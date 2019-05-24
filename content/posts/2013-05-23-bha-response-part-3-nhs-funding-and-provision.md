@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:56:32+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "bha-response-part-3-nhs-funding-and-provision"
 title = "BHA Response Part 3: NHS funding and provision"
 

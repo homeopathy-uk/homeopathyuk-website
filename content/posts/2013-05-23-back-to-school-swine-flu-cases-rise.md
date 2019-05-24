@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:02:11+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "back-to-school-swine-flu-cases-rise"
 title = "Back to school: swine flu cases rise"
 

@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2018-04-19 18:37:23+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "homeopathy-not-related-poor-gp-performance"
 tags = ["GP performance", "prescribing rates", "primary care prescribing"]
 title = "Homeopathy NOT related to poor GP performance"

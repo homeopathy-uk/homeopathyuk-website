@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:01:11+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "why-homeopathy-works-in-general-practice"
 title = "Why homeopathy works in general practice"
 

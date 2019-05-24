@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:01:53+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "homeopathy-and-first-aid"
 title = "Homeopathy and first aid"
 

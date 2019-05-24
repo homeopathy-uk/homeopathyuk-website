@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:57:06+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "bha-response-part-1-the-policy-on-nhs-funding-and-provision-of-homeopathy"
 title = "BHA Response Part 1: The Policy on NHS funding and provision of homeopathy"
 

@@ -2,6 +2,7 @@
 categories = ["home top"]
 date = "2016-11-11 18:30:44+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "current-projects"
 title = "Donate to the BHA"
 

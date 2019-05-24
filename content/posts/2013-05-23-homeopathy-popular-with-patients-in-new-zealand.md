@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:05:50+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "homeopathy-popular-with-patients-in-new-zealand"
 title = "Homeopathy popular with patients in New Zealand"
 

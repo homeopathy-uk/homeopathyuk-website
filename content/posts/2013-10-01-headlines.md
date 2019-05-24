@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-10-01 01:52:58+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 published = false
 slug = "headlines"
 title = "Sample Post With Headlines"

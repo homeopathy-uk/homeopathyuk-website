@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2017-10-23 13:02:55+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "how-homeopathy-has-helped"
 tags = ["Homeopathy Worked for Me"]
 title = "How homeopathy has helped: four ladies tell their stories"

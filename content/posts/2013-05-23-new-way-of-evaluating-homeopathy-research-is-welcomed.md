@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-05-23 17:37:59+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "new-way-of-evaluating-homeopathy-research-is-welcomed"
 title = "New way of evaluating homeopathy research is welcomed"
 

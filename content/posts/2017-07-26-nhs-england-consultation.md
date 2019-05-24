@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2017-07-26 16:57:18+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "nhs-england-consultation"
 tags = ["consultation", "nhs", "NHS England"]
 title = "NHS England Consultation on Homeopathic Medicines"

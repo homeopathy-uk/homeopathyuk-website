@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:06:06+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "petplan-makes-homeopathy-more-expensive"
 title = "Petplan makes homeopathy more expensive"
 

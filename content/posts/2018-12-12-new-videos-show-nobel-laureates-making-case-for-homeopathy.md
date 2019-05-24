@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2018-12-12 11:13:12+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "new-videos-show-nobel-laureates-making-case-for-homeopathy"
 title = "New videos show Nobel Laureates making case for homeopathy"
 

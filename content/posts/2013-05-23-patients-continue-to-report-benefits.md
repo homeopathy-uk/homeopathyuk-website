@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:07:43+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "patients-continue-to-report-benefits"
 title = "Patients continue to report benefits"
 

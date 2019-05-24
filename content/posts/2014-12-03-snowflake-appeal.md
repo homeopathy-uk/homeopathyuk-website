@@ -2,6 +2,7 @@
 categories = ["featured articles"]
 date = "2014-12-03 10:33:36+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "snowflake-appeal"
 title = "Snowflake appeal"
 

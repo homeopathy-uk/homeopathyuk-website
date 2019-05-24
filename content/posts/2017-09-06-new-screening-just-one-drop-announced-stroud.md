@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2017-09-06 10:47:35+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "new-screening-just-one-drop-announced-stroud"
 title = "New screening of \"Just One Drop\" announced in Stroud"
 

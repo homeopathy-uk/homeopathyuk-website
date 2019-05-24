@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:55:56+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "bha-response-part-5-product-licensing-and-pharmacies"
 title = "BHA Response Part 5: Product licensing and pharmacies"
 

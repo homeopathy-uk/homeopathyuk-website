@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-05-23 17:40:29+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "marathon-woman"
 title = "Marathon woman"
 

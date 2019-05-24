@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:55:14+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "free-tickets-to-the-allergy-show"
 title = "Free tickets to the Allergy Show"
 

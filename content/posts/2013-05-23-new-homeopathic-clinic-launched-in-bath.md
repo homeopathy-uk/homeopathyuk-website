@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:05:32+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "new-homeopathic-clinic-launched-in-bath"
 title = "New homeopathic clinic launched in Bath"
 

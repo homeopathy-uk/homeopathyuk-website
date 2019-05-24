@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "Media Centre"]
 date = "2018-04-04 14:51:12+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "defending-patient-choice"
 tags = ["consultation", "homeopathic medicines", "judicial review", "NHS England", "save homeopathy"]
 title = "Defending patient choice"

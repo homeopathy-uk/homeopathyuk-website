@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-05-23 14:11:52+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "book-reviews"
 title = "Book reviews"
 

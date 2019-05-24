@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "News"]
 date = "2017-11-14 16:42:31+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "legal-fund-save-nhs-homeopathy-reaches-10000"
 tags = ["consultation", "homeopathic medicines", "judicial review", "nhs", "NHS England", "save homeopathy"]
 title = "Legal fund to save NHS homeopathy reaches £10,000"

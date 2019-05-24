@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2017-09-14 12:43:37+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "write-mp-nhs-consultation-homeopathy-herbal-medicines"
 tags = ["consultation", "NHS England", "save homeopathy"]
 title = "Write to Your MP about the NHS consultation on Homeopathy and Herbal Medicines"

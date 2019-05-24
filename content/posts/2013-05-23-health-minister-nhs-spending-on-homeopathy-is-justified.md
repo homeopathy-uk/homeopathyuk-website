@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:00:15+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "health-minister-nhs-spending-on-homeopathy-is-justified"
 title = "Health minister: NHS spending on homeopathy is justified"
 

@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:03:29+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "sinusitis-improves-after-homeopathic-consultations"
 title = "Sinusitis improves after homeopathic consultations"
 

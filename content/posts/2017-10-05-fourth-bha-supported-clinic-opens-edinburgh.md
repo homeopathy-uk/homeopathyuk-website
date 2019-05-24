@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "Media Centre", "News"]
 date = "2017-10-05 10:45:07+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "fourth-bha-supported-clinic-opens-edinburgh"
 tags = ["BHA-supported clinics", "charitable clinic", "Edinburgh", "Edinburgh homeopathic clinic", "homeopathy clinics"]
 title = "Fourth BHA supported clinic opens in Edinburgh"

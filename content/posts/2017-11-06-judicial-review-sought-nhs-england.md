@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2017-11-06 10:28:48+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "judicial-review-sought-nhs-england"
 tags = ["consultation", "homeopathic medicines", "nhs", "NHS England", "save homeopathy"]
 title = "Judicial review sought against NHS England"

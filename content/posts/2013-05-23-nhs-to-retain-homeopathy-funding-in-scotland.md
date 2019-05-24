@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:58:04+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "nhs-to-retain-homeopathy-funding-in-scotland"
 title = "NHS to retain homeopathy funding in Scotland"
 

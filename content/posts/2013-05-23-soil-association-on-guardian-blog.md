@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:02:30+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "soil-association-on-guardian-blog"
 title = "Soil Association on Guardian blog"
 

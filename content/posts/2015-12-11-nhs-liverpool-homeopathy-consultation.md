@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2015-12-11 18:33:17+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "nhs-liverpool-homeopathy-consultation"
 title = "NHS Liverpool homeopathy consultation"
 

@@ -2,6 +2,7 @@
 categories = ["featured articles"]
 date = "2017-03-07 10:53:05+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "popular-topics"
 title = "Popular topics"
 

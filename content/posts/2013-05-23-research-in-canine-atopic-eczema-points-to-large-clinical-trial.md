@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:06:41+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "research-in-canine-atopic-eczema-points-to-large-clinical-trial"
 title = "Research in canine atopic eczema points to large clinical trial"
 

@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:49:56+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "supporters-of-homeopathy-outraged-at-medical-unions-attacks"
 title = "Supporters of homeopathy outraged at medical union's attacks"
 

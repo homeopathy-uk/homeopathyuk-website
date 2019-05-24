@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2018-01-15 09:08:49+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "bha-response-highlights-serious-flaws-in-nhs-england-consultation"
 tags = ["homeopathic medicines", "judicial review", "nhs", "NHS England", "save homeopathy"]
 title = "BHA response highlights serious flaws in NHS England's consultation"

@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2015-03-13 12:51:36+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "response-nhmrcs-position-statement"
 title = "Our response to NHMRC's position statement"
 

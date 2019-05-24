@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2014-01-16 11:53:27+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "bhas-musical-evening-hits-all-the-right-notes"
 title = "BHA’s musical evening hits all the right notes"
 

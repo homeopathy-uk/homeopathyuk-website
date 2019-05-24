@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2014-03-06 17:20:24+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "jane-gilchrist"
 title = "Jane Gilchrist"
 

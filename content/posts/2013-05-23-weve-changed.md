@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:09:27+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "weve-changed"
 title = "We've changed!"
 

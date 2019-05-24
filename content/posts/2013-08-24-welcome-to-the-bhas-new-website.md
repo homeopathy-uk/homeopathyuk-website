@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-08-24 15:10:29+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "welcome-to-the-bhas-new-website"
 title = "Welcome to the BHA’s new website"
 

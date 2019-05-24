@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "Media Centre", "News"]
 date = "2018-05-17 13:32:59+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "nobel-prize-winning-scientists-speak-london"
 tags = ["Loc Montagnier", "London", "seminar"]
 title = "Nobel prize-winning scientist to speak in London"

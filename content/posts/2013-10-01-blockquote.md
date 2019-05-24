@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-10-01 01:54:12+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 published = false
 slug = "blockquote"
 title = "Sample Post With a Blockquote"

@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:56:47+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "bha-response-part-2-expectations-of-the-evidence-base"
 title = "BHA Response Part 2: Expectations of the evidence base"
 

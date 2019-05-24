@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:55:33+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "bha-response-part-6-overall-conclusions"
 title = "BHA Response Part 6: Overall conclusions"
 

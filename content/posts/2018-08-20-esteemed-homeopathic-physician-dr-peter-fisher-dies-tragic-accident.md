@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "Media Centre", "News"]
 date = "2018-08-20 14:36:08+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "esteemed-homeopathic-physician-dr-peter-fisher-dies-tragic-accident"
 tags = ["peter fisher"]
 title = "Esteemed homeopathic physician, Dr Peter Fisher dies in tragic accident"

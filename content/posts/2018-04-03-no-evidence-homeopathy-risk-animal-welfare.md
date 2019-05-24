@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles"]
 date = "2018-04-03 10:05:58+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "no-evidence-homeopathy-risk-animal-welfare"
 tags = ["animals", "BAHVS", "RCVS", "save homeopathy"]
 title = "No evidence homeopathy is a risk to animal welfare"

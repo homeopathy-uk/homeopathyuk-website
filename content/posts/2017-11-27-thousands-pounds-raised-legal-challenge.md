@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2017-11-27 13:08:07+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "thousands-pounds-raised-legal-challenge"
 tags = ["judicial review", "nhs", "NHS England", "save homeopathy"]
 title = "Thousands of pounds raised for legal challenge"

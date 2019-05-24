@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles"]
 date = "2017-09-14 12:21:45+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "save-homeopathy-herbal-medicine"
 tags = ["consultation", "NHS England", "save homeopathy"]
 title = "Save Homeopathy and Herbal Medicine"

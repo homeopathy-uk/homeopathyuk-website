@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "Media Centre", "News"]
 date = "2019-01-10 10:18:13+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "the-inquest-into-the-death-of-dr-peter-fisher"
 tags = ["peter fisher"]
 title = "The inquest into the death of Dr Peter Fisher"

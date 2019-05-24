@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:58:20+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "homeopathy-works-and-is-an-important-part-of-the-nhs"
 title = "Homeopathy works and is an important part of the NHS"
 

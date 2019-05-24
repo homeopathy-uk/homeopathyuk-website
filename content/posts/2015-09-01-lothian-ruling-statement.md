@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2015-09-01 17:51:35+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "lothian-ruling-statement"
 title = "Lothian ruling statement"
 

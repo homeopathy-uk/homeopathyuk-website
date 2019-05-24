@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:57:26+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "british-homeopathic-association-rebuts-unfounded-criticism"
 title = "British Homeopathic Association rebuts unfounded criticism"
 

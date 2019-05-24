@@ -2,6 +2,7 @@
 categories = ["Media Centre"]
 date = "2013-10-01 01:55:21+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 published = false
 slug = "image-centered"
 tags = ["Images"]

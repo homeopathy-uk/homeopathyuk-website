@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2017-06-23 15:11:09+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "nhs-enfield-consultation"
 title = "NHS Enfield Consultation"
 

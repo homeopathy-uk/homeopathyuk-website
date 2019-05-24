@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 17:50:47+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "bma-junior-doctors-demonstrate-lack-of-knowledge"
 title = "BMA junior doctors demonstrate lack of knowledge"
 

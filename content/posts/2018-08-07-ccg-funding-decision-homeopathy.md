@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "Media Centre", "News"]
 date = "2018-08-07 18:37:44+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "ccg-funding-decision-homeopathy"
 tags = ["Bristol", "consultation", "nhs", "NHS Bristol CCG", "primary care prescribing", "save homeopathy"]
 title = "CCG funding decision on homeopathy"

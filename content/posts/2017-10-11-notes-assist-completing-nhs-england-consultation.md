@@ -2,6 +2,7 @@
 categories = ["BHA Blog"]
 date = "2017-10-11 16:38:05+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "notes-assist-completing-nhs-england-consultation"
 tags = ["consultation", "NHS England", "save homeopathy"]
 title = "Notes to assist in completing the NHS England Consultation"

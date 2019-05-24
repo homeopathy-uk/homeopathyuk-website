@@ -2,6 +2,7 @@
 categories = ["News"]
 date = "2013-05-23 18:06:59+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "homeopathy-improves-lives-of-psoriasis-patients"
 title = "Homeopathy improves lives of psoriasis patients"
 

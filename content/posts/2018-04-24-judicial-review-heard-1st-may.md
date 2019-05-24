@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "featured articles", "News"]
 date = "2018-04-24 15:07:09+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "judicial-review-heard-1st-may"
 tags = ["consultation", "homeopathic medicines", "judicial review", "NHS England", "primary care prescribing", "save homeopathy"]
 title = "Judicial Review to be heard on 1st May"

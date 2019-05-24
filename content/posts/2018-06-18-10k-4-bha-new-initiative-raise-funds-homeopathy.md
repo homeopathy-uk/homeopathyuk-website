@@ -2,6 +2,7 @@
 categories = ["BHA Blog", "News"]
 date = "2018-06-18 13:52:31+00:00"
 old-URL = "/posts"
+opengraph_type = "article"
 slug = "10k-4-bha-new-initiative-raise-funds-homeopathy"
 tags = ["10k 4 BHA", "fundraising"]
 title = "10k 4 BHA - new initiative to raise funds for homeopathy"
