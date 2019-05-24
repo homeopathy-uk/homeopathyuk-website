@@ -50,6 +50,18 @@ fields:
     required: false
   label: Meta keywords
   description: Metadata keywords to provide to search engines
+- name: categories
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: documents
+      section: ''
+      path: ''
+      file: 
+  label: Categories
 - name: tags
   type: tag_list
   default: []
@@ -68,17 +80,5 @@ fields:
   label: Opengraph type
   hidden: false
   default: article
-- name: categoriesx
-  type: list
-  config:
-    use_select: true
-    min: 
-    max: 
-    source:
-      type: documents
-      section: blog-posts
-      path: tags
-      file: content/posts/mickey-mouse-comes-to-town.md
-  label: Categoriesx
 pages:
 - content/posts/mickey-mouse-comes-to-town.md
