@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["articles"]
 date = "2019-05-24T12:27:29+00:00"
 draft = true
 featured_image = ""
