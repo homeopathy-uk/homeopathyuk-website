@@ -71,7 +71,7 @@ fields:
   config:
     required: true
   label: Opengraph type
-  hidden: true
+  hidden: false
   default: article
 pages:
 - content/posts/mickey-mouse-comes-to-town.md
