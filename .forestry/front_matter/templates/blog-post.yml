@@ -81,5 +81,3 @@ fields:
   label: Opengraph type
   hidden: false
   default: article
-pages:
-- content/posts/mickey-mouse-comes-to-town.md
