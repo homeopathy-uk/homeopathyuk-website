@@ -65,5 +65,20 @@ fields:
     maxSize: 250
   label: Featured image
   description: Select a image to represent this post in listings
+- name: opengraph_type
+  type: select
+  default: article
+  config:
+    required: true
+    options:
+    - article
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: OpenGraph type
+  description: Type of page
+  hidden: true
 pages:
 - content/posts/mickey-mouse-comes-to-town.md
