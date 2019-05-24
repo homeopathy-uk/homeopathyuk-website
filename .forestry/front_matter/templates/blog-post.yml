@@ -65,3 +65,5 @@ fields:
       format: markdown
   label: Summary
   description: Write a brief summary of this page for listings
+pages:
+- content/posts/mickey-mouse-comes-to-town.md
