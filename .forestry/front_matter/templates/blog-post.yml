@@ -62,6 +62,7 @@ fields:
       path: categories
       file: content/categories-dictionary.md
   label: Categories
+  description: Select categories that best categorise this post
 - name: tags
   type: tag_list
   default: []
