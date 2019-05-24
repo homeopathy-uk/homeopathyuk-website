@@ -17,6 +17,16 @@ fields:
     time_format: hh:mm
     display_utc: false
   default: now
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary
+  description: Write a brief summary of this page for listings
 - name: meta_document_title
   type: text
   config:
@@ -55,15 +65,5 @@ fields:
     maxSize: 250
   label: Featured image
   description: Select a image to represent this post in listings
-- name: summary
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Summary
-  description: Write a brief summary of this page for listings
 pages:
 - content/posts/mickey-mouse-comes-to-town.md
