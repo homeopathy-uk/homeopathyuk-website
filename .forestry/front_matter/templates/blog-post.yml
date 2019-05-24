@@ -17,3 +17,51 @@ fields:
     time_format: hh:mm
     display_utc: false
   default: now
+- name: meta_document_title
+  type: text
+  config:
+    required: false
+  label: Meta document title
+  description: Metadata title to display on search engines
+- name: meta_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Meta description
+  description: Metadata description to display in search engine results
+- name: meta_keywords
+  type: text
+  config:
+    required: false
+  label: Meta keywords
+  description: Metadata keywords to provide to search engines
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
+  description: To what category(ies) does this page belong?
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: Tag the content of this post with applicable free-form tags
+- name: featured_image
+  type: file
+  config:
+    maxSize: 250
+  label: Featured image
+  description: Select a image to represent this post in listings
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary
+  description: Write a brief summary of this page for listings
