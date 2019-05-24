@@ -10,3 +10,5 @@ fields:
     max: 
   label: Categories
   description: Dictionary of categories that can be used for all content on site
+pages:
+- content/categories-dictionary.md
