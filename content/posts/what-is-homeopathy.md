@@ -9,7 +9,7 @@ meta_keywords = ""
 opengraph_type = "article"
 summary = ""
 tags = []
-title = "What is homeopathy? "
+title = "What is homeopathy? DUMMY "
 
 +++
 **What is homeopathy?**
