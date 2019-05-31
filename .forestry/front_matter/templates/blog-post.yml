@@ -81,3 +81,5 @@ fields:
   label: Opengraph type
   hidden: false
   default: article
+pages:
+- content/HUK NEW COPY /what-is-homeopathy.md
