@@ -82,7 +82,7 @@ fields:
   hidden: false
   default: article
 pages:
+- content/posts/about-homeopathy-uk-dummy.md
 - content/HUK NEW COPY /what-is-homeopathy.md
 - content/posts/what-is-homeopathy.md
 - content/posts/how-homeopathy-can-help-dummy.md
-- content/posts/about-homeopathy-uk-dummy.md

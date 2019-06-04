@@ -16,6 +16,16 @@ title = "About Homeopathy UK dummy "
 
 Homeopathy UK was founded in 1902 as the British Homeopathic Association. We are the United Kingdom’s leading homeopathic charity committed to the promotion and practice of homeopathy.
 
+**Our mission**
+
+to build greater awareness and use of homeopathy as an effective healthcare choice
+
+to promote homeopathy and its practice 
+
+to fund research and training for homeopathic practitioners and medical professionals
+
+to ensure that government, decision makers and healthcare professionals understand the benefits of homeopathy
+
 **How we can help**
 
 We believe that everyone has the right to high-quality homeopathic healthcare and we offer subsidised treatment from our network of low-cost charitable clinics {LINK TO CLINICS PAGES}.
