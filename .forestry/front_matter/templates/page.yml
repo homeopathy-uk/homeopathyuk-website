@@ -1,0 +1,79 @@
+---
+label: Page
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: DD/MM/YYYY
+    time_format: hh:mm
+    required: true
+  default: now
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary
+  description: Write a brief summary of this page for listings
+- name: meta_document_title
+  type: text
+  config:
+    required: false
+  label: Meta document title
+  description: Metadata title to display on search engines
+- name: meta_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Meta description
+  description: Metadata description to display in search engine results
+- name: meta_keywords
+  type: text
+  config:
+    required: false
+  description: Metadata keywords to provide to search engines, comma-separated
+  label: Meta keywords
+- type: list
+  name: categories
+  label: Categories
+  description: Select categories that best apply to this page
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: pages
+      path: categories
+      file: content/categories-dictionary.md
+- name: tags
+  type: text
+  config:
+    required: false
+  label: Tags
+  description: Categorise the content of this page with applicable free-form tags
+- name: featured_image
+  type: file
+  config:
+    maxSize: 250
+  label: Featured image
+  description: Select a image to represent this page in listings
+- type: text
+  name: opengraph_type
+  label: Opengraph type
+  config:
+    required: true
+  default: website
