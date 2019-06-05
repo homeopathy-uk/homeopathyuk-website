@@ -6,4 +6,4 @@ title = "V"
 
 +++
 
-### [Vanadium](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/v/the-case-for-vanadium/)
+### [Vanadium]/charity/how-we-can-help/articles/homeopathic-medicines/v/the-case-for-vanadium/)

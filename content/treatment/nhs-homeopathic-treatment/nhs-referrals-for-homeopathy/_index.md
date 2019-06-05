@@ -8,7 +8,7 @@ title = "NHS referrals for homeopathy"
 
 ##### Asking to be referred
 
-If there is a homeopathic GP in your area, you may be able to register with them - use our [practitioner search](http://localhost/treatment/find-a-homeopath-search/) to find out if there is one near you. Otherwise, you will need to ask your current doctor or specialist for a referral to one of the homeopathic hospitals or clinics, or to a homeopathic GP who takes NHS referrals. Your doctor can either use the choose and book system or apply directly to the Primary Care Trust (PCT) or Local Health Board (LHB) on your behalf.
+If there is a homeopathic GP in your area, you may be able to register with them - use our [practitioner search]/treatment/find-a-homeopath-search/) to find out if there is one near you. Otherwise, you will need to ask your current doctor or specialist for a referral to one of the homeopathic hospitals or clinics, or to a homeopathic GP who takes NHS referrals. Your doctor can either use the choose and book system or apply directly to the Primary Care Trust (PCT) or Local Health Board (LHB) on your behalf.
 
 ##### Your GP must take your request seriously
 

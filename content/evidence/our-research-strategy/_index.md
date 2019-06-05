@@ -38,7 +38,7 @@ A collaborative project with researchers at the Department of Clinical Veterinar
 
 To appreciate the clinical research evidence in homeopathy in more detail, we have undertaken a comprehensive programme to review systematically the published literature of randomised controlled trials (RCTs)in both human medicine ([full article](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/Paper-4-human-RCTs.pdf)) and veterinary medicine ([full article](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/Paper-5-vet-RCTs.pdf)). We have also begun to research an important but previously unexplored facet of clinical trial quality: model validity.2
 
-This large component of the BHA’s current work is more fully described in [Our systematic review programme](http://localhost/evidence/systematic-review-programme/). The work benefits from collaboration with colleagues at the Carstens Foundation in Germany and at the [Robertson Centre for Biostatistics](http://www.gla.ac.uk/researchinstitutes/healthwellbeing/research/robertsoncentreforbiostatistics/) in Glasgow.
+This large component of the BHA’s current work is more fully described in [Our systematic review programme]/evidence/systematic-review-programme/). The work benefits from collaboration with colleagues at the Carstens Foundation in Germany and at the [Robertson Centre for Biostatistics](http://www.gla.ac.uk/researchinstitutes/healthwellbeing/research/robertsoncentreforbiostatistics/) in Glasgow.
 
 #### Creating a culture of research
 

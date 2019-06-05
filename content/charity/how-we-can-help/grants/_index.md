@@ -32,6 +32,6 @@ The Trustees do NOT normally fund:
 
   * Individual courses of treatment, homeopathic or otherwise.
 
-**![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/grants.jpg)Please read the [grant policy](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/Grant-awarding-policy-May-2017.docx) and complete the [online application form](http://localhost/charity/grants/online-application-form/)**.  Applications should be submitted by 1 October or 1 March each year for consideration by the Trustees at their subsequent Board meetings in November and April respectively.
+**![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/grants.jpg)Please read the [grant policy](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/Grant-awarding-policy-May-2017.docx) and complete the [online application form]/charity/grants/online-application-form/)**.  Applications should be submitted by 1 October or 1 March each year for consideration by the Trustees at their subsequent Board meetings in November and April respectively.
 
 All applications will be acknowledged. If you have any queries please contact the BHA at [info@britishhomeopathic.org](mailto:info@britishhomeopathic.org) or **(0)203 640 5903**.

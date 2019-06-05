@@ -10,7 +10,7 @@ The BHA's vision is to make homeopathy available to everyone as part of an integ
 
 ### The benefits
 
-**![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/join-today.jpg)A subscription to Health and Homeopathy** - [our popular magazine full of articles on homeopathy](http://localhost/charity/how-we-can-help/health-and-homeopathy-magazine/) for a wide range of conditions, new and interesting homeopathic medicines, case studies, latest news, round up of media coverage, local group listings and much more.
+**![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/join-today.jpg)A subscription to Health and Homeopathy** - [our popular magazine full of articles on homeopathy]/charity/how-we-can-help/health-and-homeopathy-magazine/) for a wide range of conditions, new and interesting homeopathic medicines, case studies, latest news, round up of media coverage, local group listings and much more.
 
 **The BHA's e-newsletter** which keeps our supporters up to date in between issues of Health and Homeopathy.
 

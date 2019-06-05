@@ -12,7 +12,7 @@ We believe that everyone has the right to high quality homoeopathic treatment. D
 
 [cubeportfolio id="9"]
 
-[![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/AmazonSmile-orange.jpg)](http://localhost/support-us-with-amazon-smile/)
+[![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/AmazonSmile-orange.jpg)]/support-us-with-amazon-smile/)
 
-**[Support us with Amazon Smile](http://localhost/support-us-with-amazon-smile/)**
+**[Support us with Amazon Smile]/support-us-with-amazon-smile/)**
 

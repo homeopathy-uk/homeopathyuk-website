@@ -6,4 +6,4 @@ title = "R"
 
 +++
 
-### [Respiratory problems](http://localhost/charity/how-we-can-help/articles/conditions/r/spotlight-on-respiratory-system-by-russell-malcolm/)
+### [Respiratory problems]/charity/how-we-can-help/articles/conditions/r/spotlight-on-respiratory-system-by-russell-malcolm/)

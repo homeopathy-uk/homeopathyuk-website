@@ -12,7 +12,7 @@ The BHA is committed to the widespread availability of homeopathy across the NHS
 
 #### Join us
 
-You can help us to keep homeopathy in the NHS by [joining the BHA as a Friend](http://localhost/charity/support-the-bha/). Your support will allow us to continue our campaigning work and continue to fight for what patients want – a choice of healthcare.
+You can help us to keep homeopathy in the NHS by [joining the BHA as a Friend]/charity/support-the-bha/). Your support will allow us to continue our campaigning work and continue to fight for what patients want – a choice of healthcare.
 
 #### Keeping services where they belong
 
@@ -157,7 +157,7 @@ Email: [tasneemyadeem@yahoo.co.uk](mailto:tasneemyadeem@yahoo.co.uk)
 
 #### 1. Write to your MP.
 
-Make your MP aware of why he/she should back NHS funding for homeopathy and your concerns about the recent unjustified attacks on homeopathy.  You can use our [sample letter](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/Sample_letter_to_Chief_Executive_of_PCT.pdf) as a guide.  It is always a good idea to give some details of your personal experience of the value of homeopathy.   You can also ask them to table a Parliamentary Question. See our [list of suggested questions.](http://localhost/what-you-can-do/campaign-for-homeopathy/parliamentary-questions/)
+Make your MP aware of why he/she should back NHS funding for homeopathy and your concerns about the recent unjustified attacks on homeopathy.  You can use our [sample letter](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/Sample_letter_to_Chief_Executive_of_PCT.pdf) as a guide.  It is always a good idea to give some details of your personal experience of the value of homeopathy.   You can also ask them to table a Parliamentary Question. See our [list of suggested questions.]/what-you-can-do/campaign-for-homeopathy/parliamentary-questions/)
 
 #### 2. Write to the Primary Care Trust’s Chief Executive.
 
@@ -177,5 +177,5 @@ Find details of your nearest NHS homeopathic service on our contacts for campai
 
 #### 6. Make a donation to the BHA’s campaign fund.
 
-[Support our work](http://localhost/charity/support-the-bha/) and help us to make sure that patients can have access to homeopathy in the NHS.
+[Support our work]/charity/support-the-bha/) and help us to make sure that patients can have access to homeopathy in the NHS.
 

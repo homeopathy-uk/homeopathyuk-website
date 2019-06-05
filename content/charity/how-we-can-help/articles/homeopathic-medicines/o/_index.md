@@ -6,4 +6,4 @@ title = "O"
 
 +++
 
-### [Oxygen and Ozonum](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/o/oxygen-and-ozonum/)
+### [Oxygen and Ozonum]/charity/how-we-can-help/articles/homeopathic-medicines/o/oxygen-and-ozonum/)

@@ -6,10 +6,10 @@ title = "D"
 
 +++
 
-[Dental homeopathy](http://localhost/how-we-can-help-you/conditions-a-z/top-5-reasons-we-visit-the-dentist/) (2010)
-[Dental homeopathy](http://localhost/how-we-can-help-you/conditions-a-z/in-the-dentists-chair/) (2004)
-[Dental homeopathy](http://localhost/how-we-can-help-you/conditions-a-z/dental-homeopathy-an-accidental-introduction/) (2001)
-[Diabetes mellitus](http://localhost/how-we-can-help-you/conditions-a-z/diabetes-mellitus/)
-[Digestive problems](http://localhost/how-we-can-help-you/conditions-a-z/top-tips-for-aiding-digestion/) (2010)
-[Digestive problems](http://localhost/how-we-can-help-you/conditions-a-z/spotlight-on-digestion/) (2006)
-[Digestive problems](http://localhost/how-we-can-help-you/conditions-a-z/from-heart-burn-to-wind/) (2003)
+[Dental homeopathy]/how-we-can-help-you/conditions-a-z/top-5-reasons-we-visit-the-dentist/) (2010)
+[Dental homeopathy]/how-we-can-help-you/conditions-a-z/in-the-dentists-chair/) (2004)
+[Dental homeopathy]/how-we-can-help-you/conditions-a-z/dental-homeopathy-an-accidental-introduction/) (2001)
+[Diabetes mellitus]/how-we-can-help-you/conditions-a-z/diabetes-mellitus/)
+[Digestive problems]/how-we-can-help-you/conditions-a-z/top-tips-for-aiding-digestion/) (2010)
+[Digestive problems]/how-we-can-help-you/conditions-a-z/spotlight-on-digestion/) (2006)
+[Digestive problems]/how-we-can-help-you/conditions-a-z/from-heart-burn-to-wind/) (2003)

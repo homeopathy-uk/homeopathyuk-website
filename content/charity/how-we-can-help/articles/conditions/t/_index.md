@@ -6,5 +6,5 @@ title = "T"
 
 +++
 
-### [Thyroid gland problems](http://localhost/charity/how-we-can-help/articles/conditions/t/too-much-or-too-little/)
-[Tonsils](http://localhost/charity/how-we-can-help/articles/conditions/t/enlarged-tonsils-2/) – enlarged
+### [Thyroid gland problems]/charity/how-we-can-help/articles/conditions/t/too-much-or-too-little/)
+[Tonsils]/charity/how-we-can-help/articles/conditions/t/enlarged-tonsils-2/) – enlarged

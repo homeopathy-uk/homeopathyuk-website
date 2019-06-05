@@ -83,7 +83,7 @@ Liverpool
 
 ### Charitably funded clinics
 
-[Norwich](http://localhost/treatment/bha-clinics/norwich-homeopathic-clinic/)
+[Norwich]/treatment/bha-clinics/norwich-homeopathic-clinic/)
 01508 570122
 
 Sidmouth

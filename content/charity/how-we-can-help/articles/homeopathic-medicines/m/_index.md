@@ -6,6 +6,6 @@ title = "M"
 
 +++
 
-### [Magnesium carbonate](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/m/magnesium-carbonate/)
-[Mercurius](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/m/mercurius/)
-[Musk](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/m/im-afraid-to-go-to-sleep-in-case-i-die-a-case-for-musk/)
+### [Magnesium carbonate]/charity/how-we-can-help/articles/homeopathic-medicines/m/magnesium-carbonate/)
+[Mercurius]/charity/how-we-can-help/articles/homeopathic-medicines/m/mercurius/)
+[Musk]/charity/how-we-can-help/articles/homeopathic-medicines/m/im-afraid-to-go-to-sleep-in-case-i-die-a-case-for-musk/)

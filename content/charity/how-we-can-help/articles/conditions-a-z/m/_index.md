@@ -7,7 +7,7 @@ title = "M"
 +++
 
 Male mid-life crisis
-[Menopausal symptoms](http://localhost/how-we-can-help-you/conditions-a-z/after-hrt/) (2007)
-[Menopausal symptoms](http://localhost/how-we-can-help-you/conditions-a-z/what-can-we-learn-from-the-recent-hrt-scare/) (2004)
+[Menopausal symptoms]/how-we-can-help-you/conditions-a-z/after-hrt/) (2007)
+[Menopausal symptoms]/how-we-can-help-you/conditions-a-z/what-can-we-learn-from-the-recent-hrt-scare/) (2004)
 Menopausal symptoms (2002)
-[Muscle and joint problems](http://localhost/how-we-can-help-you/conditions-a-z/muscle-and-joint-problems/)
+[Muscle and joint problems]/how-we-can-help-you/conditions-a-z/muscle-and-joint-problems/)

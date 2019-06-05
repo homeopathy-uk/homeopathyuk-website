@@ -48,4 +48,4 @@ As the Olympics will be taking place in the summer, this year the focus will be 
 
 — British Homeopathic (@bhahomeopathy) [April 16, 2016](https://twitter.com/bhahomeopathy/status/721435746557685760)</blockquote>
 
-Learn more about last year's event [Homeopathy Awareness Week 2015](http://localhost/homeopathy-awareness-week/2015-2/).
+Learn more about last year's event [Homeopathy Awareness Week 2015]/homeopathy-awareness-week/2015-2/).

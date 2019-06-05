@@ -52,5 +52,5 @@ Key in this approach is to prevent the spread of infection by
 
 Homeopathy has a place in assisting the body to heal and lessen the symptoms.
 
-For general flu advice read the BHA’s [flu advice sheet](http://localhost/export/sites/bha_site/how_we_can_help/advice_sheets/Flu_advice_sheet.pdf)
+For general flu advice read the BHA’s [flu advice sheet]/export/sites/bha_site/how_we_can_help/advice_sheets/Flu_advice_sheet.pdf)
 

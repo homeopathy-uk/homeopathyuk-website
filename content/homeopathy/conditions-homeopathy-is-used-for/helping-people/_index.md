@@ -18,12 +18,12 @@ Apical abscess, anxiety, tooth extraction, sensitive cementum, periodontal absce
 
 #### Published clinical evidence
 
-Homeopathic research is still in its infancy but several of the conditions above, and a number of others, have a published evidence base. [View conditions with positive evidence](http://localhost/conditions-with-overall-positive-evidence-for-homeopathy/)
+Homeopathic research is still in its infancy but several of the conditions above, and a number of others, have a published evidence base. [View conditions with positive evidence]/conditions-with-overall-positive-evidence-for-homeopathy/)
 
 #### Patient-reported outcomes
 
-Outcome surveys carried out at the homeopathic hospitals indicate the level of improvement in health after homeopathy, according to the patients themselves. [View results from the homeopathic hospitals](http://localhost/evidence/results-from-the-homeopathic-hospitals/)
+Outcome surveys carried out at the homeopathic hospitals indicate the level of improvement in health after homeopathy, according to the patients themselves. [View results from the homeopathic hospitals]/evidence/results-from-the-homeopathic-hospitals/)
 
 #### Read about specific conditions
 
-You can search our archive of over 200 articles for information on specific illnesses and how homeopathy has been shown to help patients in practice. [Search our archive of articles](http://localhost/bha-charity/how-we-can-help/articles/)
+You can search our archive of over 200 articles for information on specific illnesses and how homeopathy has been shown to help patients in practice. [Search our archive of articles]/bha-charity/how-we-can-help/articles/)

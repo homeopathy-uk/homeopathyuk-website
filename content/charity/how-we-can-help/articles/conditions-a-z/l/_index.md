@@ -6,5 +6,5 @@ title = "L"
 
 +++
 
-[Liver problems](http://localhost/how-we-can-help-you/conditions-a-z/liver-problems/)
-[Lupus](http://localhost/how-we-can-help-you/conditions-a-z/lupus/)
+[Liver problems]/how-we-can-help-you/conditions-a-z/liver-problems/)
+[Lupus]/how-we-can-help-you/conditions-a-z/lupus/)

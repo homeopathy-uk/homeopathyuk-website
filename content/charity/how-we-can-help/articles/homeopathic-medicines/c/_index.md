@@ -6,12 +6,12 @@ title = "C"
 
 +++
 
-### [Calcarea carbonicum](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/c/calc-carb/) (2001)
-[Calcarea carbonicum](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/c/calc-carb-2/) (2001)
-[Calcarea phosphorica](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/c/calcarea-phosphorica/)
-[Carbo vegetabilis](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/c/a-constitutional-case-of-carbo-veg/)
-[Conium](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/c/duality-and-opposites/) (inc. Cicuta and Aethusa)
-[China officinalis](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/c/irritable-tired-and-fanciful-a-case-of-china-officinalis/)
-[Chocolate](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/c/chocolate/)
-[Colocynthis](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/c/homeopathic-remedy-families/)
-[Cuprum metallicum](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/c/cuprum-metallicum/)
+### [Calcarea carbonicum]/charity/how-we-can-help/articles/homeopathic-medicines/c/calc-carb/) (2001)
+[Calcarea carbonicum]/charity/how-we-can-help/articles/homeopathic-medicines/c/calc-carb-2/) (2001)
+[Calcarea phosphorica]/charity/how-we-can-help/articles/homeopathic-medicines/c/calcarea-phosphorica/)
+[Carbo vegetabilis]/charity/how-we-can-help/articles/homeopathic-medicines/c/a-constitutional-case-of-carbo-veg/)
+[Conium]/charity/how-we-can-help/articles/homeopathic-medicines/c/duality-and-opposites/) (inc. Cicuta and Aethusa)
+[China officinalis]/charity/how-we-can-help/articles/homeopathic-medicines/c/irritable-tired-and-fanciful-a-case-of-china-officinalis/)
+[Chocolate]/charity/how-we-can-help/articles/homeopathic-medicines/c/chocolate/)
+[Colocynthis]/charity/how-we-can-help/articles/homeopathic-medicines/c/homeopathic-remedy-families/)
+[Cuprum metallicum]/charity/how-we-can-help/articles/homeopathic-medicines/c/cuprum-metallicum/)

@@ -20,9 +20,9 @@ title = "Winter Appeal"
 
 Homeopathy treats the individual, for no two individuals are the same, just as no two snowflakes are the same.
 
-  * Continuously fighting to **retain NHS services in the UK** by supporting local patients & groups and providing swift media responses employing experts in areas such as media, politics, law and reputation management for ultimate effectiveness. [Currently undertaking a legal challenge to NHS England](http://localhost/campaign-save-homeopathic-herbal-medicines-nhs/)
+  * Continuously fighting to **retain NHS services in the UK** by supporting local patients & groups and providing swift media responses employing experts in areas such as media, politics, law and reputation management for ultimate effectiveness. [Currently undertaking a legal challenge to NHS England]/campaign-save-homeopathic-herbal-medicines-nhs/)
 
-  * **Establishing charitable homeopathic clinics** throughout the UK, with clinics currently in [Norwich](http://localhost/treatment/bha-clinics/norwich-homeopathic-clinic/), [York](http://localhost/treatment/bha-clinics/york-charitable-homeopathic-clinic/), [Bath](http://localhost/treatment/bha-clinics/bath-charitable-homeopathic-clinic/), [Edinburgh](http://localhost/treatment/bha-clinics/edinburgh-charitable-homeopathic-clinic/) and looking at developing other clinics in Liverpool, Wales, Oxford and London in 2018.
+  * **Establishing charitable homeopathic clinics** throughout the UK, with clinics currently in [Norwich]/treatment/bha-clinics/norwich-homeopathic-clinic/), [York](/treatment/bha-clinics/york-charitable-homeopathic-clinic/), [Bath](/treatment/bha-clinics/bath-charitable-homeopathic-clinic/), [Edinburgh](/treatment/bha-clinics/edinburgh-charitable-homeopathic-clinic/) and looking at developing other clinics in Liverpool, Wales, Oxford and London in 2018.
 
   * Making further investment to **enhance our digital presence** and promotion of key messages.
 

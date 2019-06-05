@@ -26,11 +26,11 @@ We have been in operation as a charity for over a hundred years. If you would li
 
 #### Campaign for NHS homeopathy
 
-If you believe patients should be able to choose homeopathy on the NHS, there are [things you can do to help our campaigning work](http://localhost/find-a-homeopath/campaign-for-nhs-homeopathy/#what-you-can-do-to-help).
+If you believe patients should be able to choose homeopathy on the NHS, there are [things you can do to help our campaigning work]/find-a-homeopath/campaign-for-nhs-homeopathy/#what-you-can-do-to-help).
 
 #### Become a Friend of the BHA
 
-Help us to keep working for access to homeopathy for everyone - [become a Friend of the BHA](http://localhost/charity/support-the-bha/) today.
+Help us to keep working for access to homeopathy for everyone - [become a Friend of the BHA]/charity/support-the-bha/) today.
 
 You will receive _Health and Homeopathy_, our magazine and we will sign you up for e-news as well. We rely solely on voluntary donations so you really will be making a difference.
 

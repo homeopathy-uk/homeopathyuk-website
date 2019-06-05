@@ -6,4 +6,4 @@ title = "H"
 
 +++
 
-### [Hydrogen](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/h/the-divided-self/)
+### [Hydrogen]/charity/how-we-can-help/articles/homeopathic-medicines/h/the-divided-self/)

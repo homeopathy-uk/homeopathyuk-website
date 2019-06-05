@@ -46,29 +46,29 @@ The campaign so far
 
 [NHS England consultation](https://www.engage.england.nhs.uk/consultation/items-routinely-prescribed/) (closed)
 
-**12th September 2017–14th March 2018: Parliamentary petition** The BHA launched a [parliamentary petition](https://petition.parliament.uk/petitions/200154)—_Stop NHS England from removing herbal and homeopathic medicines_—receiving [nearly **_35,000_** signatures](http://localhost/bha-blog/thousands-sign-support-nhs-homeopathy/)!
+**12th September 2017–14th March 2018: Parliamentary petition** The BHA launched a [parliamentary petition](https://petition.parliament.uk/petitions/200154)—_Stop NHS England from removing herbal and homeopathic medicines_—receiving [nearly **_35,000_** signatures]/bha-blog/thousands-sign-support-nhs-homeopathy/)!
 
 [Our petition](https://petition.parliament.uk/petitions/200154) (closed)
 
 **MP Lobbying** You started contacting your MPs, asking them to support our campaign. _Please_ keep up the pressure, as this is no time to get complacent; if you've already written to your MP, we ask that you do so again, this time taking the latest developments into account.
 
-[Write to your MP](http://localhost/bha-blog/write-mp-nhs-consultation-homeopathy-herbal-medicines/)
+[Write to your MP]/bha-blog/write-mp-nhs-consultation-homeopathy-herbal-medicines/)
 
 **Support our legal challenge** On the 6th of November, we initiated a legal challenge to NHS England, seeking a _judicial review_. Our grounds are that the consultations process was flawed from the start, that it did not really seek to engage with consultees, and that it did not provide consultees with adequate and relevant information to provide with which to provide a _considered and informed_ response.
 
-**6th December 2017** You've helped us [surpass our target, raising over £18,000](http://localhost/media-centre/news-press-release/thousands-pounds-raised-legal-challenge/)! Thank you for your generosity, this money will help pay for a part of the legal work already undertaken.
+**6th December 2017** You've helped us [surpass our target, raising over £18,000]/media-centre/news-press-release/thousands-pounds-raised-legal-challenge/)! Thank you for your generosity, this money will help pay for a part of the legal work already undertaken.
 
 [Donate](/donate-now/)
 
-**30th November 2017** NHS England [decides that homeopathic, herbal, and other complementary medicines should not be prescribed](http://localhost/media-centre/news-press-release/nhs-england-homeopathy/). We are still going ahead with our legal challenge, calling for a judicial review of the NHS England consultation. You can still help by signing our petition, helping fund part of our legal costs in fighting this decision, and by raising awareness of this issue.
+**30th November 2017** NHS England [decides that homeopathic, herbal, and other complementary medicines should not be prescribed]/media-centre/news-press-release/nhs-england-homeopathy/). We are still going ahead with our legal challenge, calling for a judicial review of the NHS England consultation. You can still help by signing our petition, helping fund part of our legal costs in fighting this decision, and by raising awareness of this issue.
 
-[Learn more about why we've launched the drive for a judicial review](http://localhost/media-centre/news-press-release/judicial-review-sought-nhs-england/)
+[Learn more about why we've launched the drive for a judicial review]/media-centre/news-press-release/judicial-review-sought-nhs-england/)
 
 **1st April 2018** Judicial Review hearing scheduled [1st–3rd May 2018](/bha-blog/defending-patient-choice/), in the Administrative Court at the Royal Courts of Justice in London. Any financial support you can offer will not only help us defend the right of patients to choose to be treated with homeopathy on the NHS.
 
-**4th May 2018** The BHA now [awaits judgement on our legal challenge](http://localhost/media-centre/charity-awaits-judgement-nhs-england-legal-challenge/) to NHS England’s 2017 consultation.
+**4th May 2018** The BHA now [awaits judgement on our legal challenge]/media-centre/charity-awaits-judgement-nhs-england-legal-challenge/) to NHS England’s 2017 consultation.
 
-[The background to our case](/bha-blog/defending-patient-choice/) [Latest updates](http://localhost/media-centre/charity-awaits-judgement-nhs-england-legal-challenge/)
+[The background to our case](/bha-blog/defending-patient-choice/) [Latest updates]/media-centre/charity-awaits-judgement-nhs-england-legal-challenge/)
 [Pledge to support our Judicial Review hearing](https://www.crowdjustice.com/case/save-homeopathy-on-the-nhs2/)
 
 **Keep spreading the word** You've been helping support the cause by telling all your friends. Please continue to do so, our cause relies on your support.

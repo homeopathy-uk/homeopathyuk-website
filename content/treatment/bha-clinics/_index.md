@@ -16,7 +16,7 @@ Open one Wednesday a month, 9am–12pm
 
 26 Upper Borough Walls, Bath, BA1 1RH0117 317 1482
 
-[About the clinic](http://localhost/treatment/bha-clinics/bath-charitable-homeopathic-clinic/)
+[About the clinic]/treatment/bha-clinics/bath-charitable-homeopathic-clinic/)
 
 [![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/edinburgh-366272-1024-1024x683.jpg)](/treatment/bha-clinics/edinburgh-charitable-homeopathic-clinic/)
 
@@ -31,7 +31,7 @@ Mulberry House, 21 Manor Place, Edinburgh EH3 7DX0131 225 2012
 
 [About the clinic](/treatment/bha-clinics/edinburgh-charitable-homeopathic-clinic/)
 
-[![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/liverpool-2538914-web-1024x576.jpg)](http://localhost/liverpool-charitable-homeopathic-clinic/)
+[![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/liverpool-2538914-web-1024x576.jpg)]/liverpool-charitable-homeopathic-clinic/)
 
 ## Liverpool Homeopathy
 
@@ -41,7 +41,7 @@ Open every Wednesday, 9:30–12:30
 
 Liverpool Medical Institution, 114 Mount Pleasant, Liverpool, L3 5SR0151 709 9125 extension 103
 
-[About the clinic](http://localhost/liverpool-charitable-homeopathic-clinic/)
+[About the clinic]/liverpool-charitable-homeopathic-clinic/)
 
 [![Norwich](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/norwich-cathedral-1144764-1024-1024x683.jpg)](/treatment/bha-clinics/norwich-homeopathic-clinic/)
 

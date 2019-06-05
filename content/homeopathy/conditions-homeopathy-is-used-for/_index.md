@@ -32,17 +32,17 @@ Anxiety, apical abscess, gum swelling, pericoronitis, periodontal abscess, p
 
 #### ![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/patient-outcome.jpg)Published clinical evidence
 
-Homeopathic research is still in its infancy but several of the conditions above, and a number of others, have a published evidence base. [View conditions with positive evidence](http://localhost/evidence/conditions-with-overall-positive-evidence-for-homeopathy/).
+Homeopathic research is still in its infancy but several of the conditions above, and a number of others, have a published evidence base. [View conditions with positive evidence]/evidence/conditions-with-overall-positive-evidence-for-homeopathy/).
 
 #### Patient-reported outcomes
 
 Outcome surveys carried out at the homeopathic hospitals indicate the level of improvement in health after homeopathy, according to the patients themselves.
 
-[View results from the homeopathic hospitals](http://localhost/evidence/results-from-the-homeopathic-hospitals/)
+[View results from the homeopathic hospitals]/evidence/results-from-the-homeopathic-hospitals/)
 
 #### Read about specific conditions
 
-You can search our archive of over 200 articles for information on specific illnesses and how homeopathy has been shown to help patients in practice - [search our archive of articles](http://localhost/charity/how-we-can-help/articles/).
+You can search our archive of over 200 articles for information on specific illnesses and how homeopathy has been shown to help patients in practice - [search our archive of articles]/charity/how-we-can-help/articles/).
 
 # Helping pets
 
@@ -54,4 +54,4 @@ One of the interesting things about homeopathy is that it can have great results
 
 According to owners, the health of 80% of the animals that took part in the study improved.
 
-To find a homeopathic vet in your area, use our [practitioner search](http://localhost/treatment/find-a-homeopath-search/).
+To find a homeopathic vet in your area, use our [practitioner search]/treatment/find-a-homeopath-search/).

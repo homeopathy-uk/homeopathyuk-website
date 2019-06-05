@@ -6,5 +6,5 @@ title = "U"
 
 +++
 
-[Urinary matters](http://localhost/how-we-can-help-you/conditions-a-z/urinary-matters/)
-[Urinary tract infections](http://localhost/how-we-can-help-you/conditions-a-z/a-common-problem-for-women/)
+[Urinary matters]/how-we-can-help-you/conditions-a-z/urinary-matters/)
+[Urinary tract infections]/how-we-can-help-you/conditions-a-z/a-common-problem-for-women/)

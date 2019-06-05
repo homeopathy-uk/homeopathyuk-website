@@ -97,7 +97,7 @@ Veterinary surgeons who practise homeopathy are registered with the Royal Colleg
 
 #### Finding a homeopathic vet
 
-![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/finding-a-homeopathic-vet.jpg)Pet owners can search for a vet who practises homeopathy in their area by visiting our [Find a Homeopath](http://localhost/treatment/find-a-homeopath-search/) page.
+![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/finding-a-homeopathic-vet.jpg)Pet owners can search for a vet who practises homeopathy in their area by visiting our [Find a Homeopath]/treatment/find-a-homeopath-search/) page.
 
 Owners can ask their current vet to refer them to a homeopathic vet, or make an appointment direct.
 

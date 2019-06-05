@@ -6,6 +6,6 @@ title = "Online appeals"
 
 +++
 
-[Snow Flake Appeal](http://localhost/charity/online-appeals/snow-flake-appeal/)
+[Snow Flake Appeal]/charity/online-appeals/snow-flake-appeal/)
 
 [Virgin Money Giving](http://uk.virginmoneygiving.com/charity-web/charity/finalCharityHomepage.action?charityId=1005733)

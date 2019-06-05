@@ -6,4 +6,4 @@ title = false
 
 +++
 
-### [Nervous system problems](http://localhost/charity/how-we-can-help/articles/conditions/n/spotlight-on-nervous-system/)
+### [Nervous system problems]/charity/how-we-can-help/articles/conditions/n/spotlight-on-nervous-system/)

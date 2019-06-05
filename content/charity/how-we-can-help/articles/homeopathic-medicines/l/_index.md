@@ -6,8 +6,8 @@ title = "L"
 
 +++
 
-### [Lac caninum](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/l/lac-caninum/)
-[Lac medicines](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/l/mammal-medicine-in-homeopathy/)
-[Lachesis](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/l/lachesis/)
-[Lilium tigrinum](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/l/lilium-tigrinum/)
-[Lycopodium](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/l/a-case-for-club-moss/)
+### [Lac caninum]/charity/how-we-can-help/articles/homeopathic-medicines/l/lac-caninum/)
+[Lac medicines]/charity/how-we-can-help/articles/homeopathic-medicines/l/mammal-medicine-in-homeopathy/)
+[Lachesis]/charity/how-we-can-help/articles/homeopathic-medicines/l/lachesis/)
+[Lilium tigrinum]/charity/how-we-can-help/articles/homeopathic-medicines/l/lilium-tigrinum/)
+[Lycopodium]/charity/how-we-can-help/articles/homeopathic-medicines/l/a-case-for-club-moss/)

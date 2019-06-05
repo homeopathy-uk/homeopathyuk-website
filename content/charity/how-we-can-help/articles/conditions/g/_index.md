@@ -6,5 +6,5 @@ title = "G"
 
 +++
 
-### [Grief](http://localhost/charity/how-we-can-help/articles/conditions/g/coming-to-terms-with-loss/)
-[Grief](http://localhost/charity/how-we-can-help/articles/conditions/g/grief/) (2009)
+### [Grief]/charity/how-we-can-help/articles/conditions/g/coming-to-terms-with-loss/)
+[Grief]/charity/how-we-can-help/articles/conditions/g/grief/) (2009)

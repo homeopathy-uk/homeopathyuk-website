@@ -6,4 +6,4 @@ title = "I"
 
 +++
 
-### [Ignatia](http://localhost/how-we-can-help-you/medicine-a-z/ignatia/)
+### [Ignatia]/how-we-can-help-you/medicine-a-z/ignatia/)

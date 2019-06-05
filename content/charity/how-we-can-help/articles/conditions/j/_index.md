@@ -6,4 +6,4 @@ title = "J"
 
 +++
 
-### [Joint problems](http://localhost/charity/how-we-can-help/articles/conditions/j/spotlight-on-joints-by-janet-gray/)
+### [Joint problems]/charity/how-we-can-help/articles/conditions/j/spotlight-on-joints-by-janet-gray/)

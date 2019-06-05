@@ -6,7 +6,7 @@ title = "Private treatment"
 
 +++
 
-If you are unable to access homeopathic treatment on the NHS you can see a homeopathic doctor or other healthcare professional privately. Use our [practitioner search](http://localhost/treatment/find-a-homeopath-search/) to find private practitioners in your area - they are denoted by a letter P.
+If you are unable to access homeopathic treatment on the NHS you can see a homeopathic doctor or other healthcare professional privately. Use our [practitioner search]/treatment/find-a-homeopath-search/) to find private practitioners in your area - they are denoted by a letter P.
 
 #### Check your health insurance policy
 

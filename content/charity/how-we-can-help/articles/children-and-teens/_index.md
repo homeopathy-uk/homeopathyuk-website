@@ -6,40 +6,40 @@ title = "Children and teens"
 
 +++
 
-[ADHD](http://localhost/charity/how-we-can-help/articles/children-and-teens/the-hyperactive-child/)
+[ADHD]/charity/how-we-can-help/articles/children-and-teens/the-hyperactive-child/)
 
-[Allergies](http://localhost/charity/how-we-can-help/articles/children-and-teens/allergy-a-modern-epidemic/)
+[Allergies]/charity/how-we-can-help/articles/children-and-teens/allergy-a-modern-epidemic/)
 
-[Asthma](http://localhost/charity/how-we-can-help/articles/children-and-teens/asthma/)
+[Asthma]/charity/how-we-can-help/articles/children-and-teens/asthma/)
 
-[Behavioural problems in children](http://localhost/charity/how-we-can-help/articles/children-and-teens/children-behaving-badly/) (2012)
+[Behavioural problems in children]/charity/how-we-can-help/articles/children-and-teens/children-behaving-badly/) (2012)
 
-[Behavioural problems in children](http://localhost/charity/how-we-can-help/articles/children-and-teens/a-childs-periodic-table/) (2007)
+[Behavioural problems in children]/charity/how-we-can-help/articles/children-and-teens/a-childs-periodic-table/) (2007)
 
-[Behavioural problems in children](http://localhost/bha-charity/how-we-can-help/articles/a-change-of-personality/) (2003)
+[Behavioural problems in children]/bha-charity/how-we-can-help/articles/a-change-of-personality/) (2003)
 
-[Bladder problems](http://localhost/charity/how-we-can-help/articles/children-and-teens/bladder-problems/)
+[Bladder problems]/charity/how-we-can-help/articles/children-and-teens/bladder-problems/)
 
-[Children and teenagers](http://localhost/charity/how-we-can-help/articles/children-and-teens/is-it-just-a-phase-they-go-through/)
+[Children and teenagers]/charity/how-we-can-help/articles/children-and-teens/is-it-just-a-phase-they-go-through/)
 Including moodiness, anxiety and shyness
 
-[Chronic problems in childhood](http://localhost/charity/how-we-can-help/articles/children-and-teens/homeopathic-treatment-of-children/)
+[Chronic problems in childhood]/charity/how-we-can-help/articles/children-and-teens/homeopathic-treatment-of-children/)
 
-[Coughs, colds and flu](http://localhost/charity/how-we-can-help/articles/children-and-teens/coughs-and-sneezes-spread-diseases/)
+[Coughs, colds and flu]/charity/how-we-can-help/articles/children-and-teens/coughs-and-sneezes-spread-diseases/)
 
-[Eczema](http://localhost/charity/how-we-can-help/articles/children-and-teens/eczema-in-children/)
+[Eczema]/charity/how-we-can-help/articles/children-and-teens/eczema-in-children/)
 
-[Problems for school children](http://localhost/charity/how-we-can-help/articles/children-and-teens/homeopathy-for-school-children/)
+[Problems for school children]/charity/how-we-can-help/articles/children-and-teens/homeopathy-for-school-children/)
 Including anxiety and bullying
 
-[Skin conditions](http://localhost/charity/how-we-can-help/articles/children-and-teens/spotlight-on-skin/)
+[Skin conditions]/charity/how-we-can-help/articles/children-and-teens/spotlight-on-skin/)
 Including eczema, psoriasis and acne
 
-[Starting school](http://localhost/charity/how-we-can-help/articles/children-and-teens/starting-school/)
+[Starting school]/charity/how-we-can-help/articles/children-and-teens/starting-school/)
 
-[Teenage problems](http://localhost/charity/how-we-can-help/articles/children-and-teens/homeopathy-for-teenagers/)
+[Teenage problems]/charity/how-we-can-help/articles/children-and-teens/homeopathy-for-teenagers/)
 Including skin problems and period pains
 
-[Tonsils - enlarged](http://localhost/bha-charity/how-we-can-help/articles/enlarged-tonsils/)
+[Tonsils - enlarged]/bha-charity/how-we-can-help/articles/enlarged-tonsils/)
 
-[University stress](http://localhost/bha-charity/how-we-can-help/articles/university-challenge/)
+[University stress]/bha-charity/how-we-can-help/articles/university-challenge/)

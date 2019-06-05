@@ -6,7 +6,7 @@ title = "Finding a homeopathic vet"
 
 +++
 
-![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/homeopathic-vet.jpg)There are a number of vets who incorporate homeopathy into their everyday practice. Use our [practitioner search](http://localhost/treatment/find-a-homeopath-search/) to find one near you.
+![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/homeopathic-vet.jpg)There are a number of vets who incorporate homeopathy into their everyday practice. Use our [practitioner search]/treatment/find-a-homeopath-search/) to find one near you.
 
 #### Should I inform my existing vet?
 

@@ -14,7 +14,7 @@ As you will see, the focus of this consultation is on the evidence for the effec
 
 While the BHA feels CAM charities are being unfairly targeted, it will be submitting a response to the consultation in which it will be making the following points:
 
-  * there are many types of evidence that should be considered when evaluating the effectiveness of a therapy. These include scientific studies, patient feedback and the clinical experience of doctors who have trained in a CAM discipline.  Within Homeopathy there is considerable evidence which can be found ([http://localhost/evidence/the-evidence-for-homeopathy](http://localhost/evidence/the-evidence-for-homeopathy/) or ([https://www.hri-research.org/resources/research-databases](https://www.hri-research.org/resources/research-databases/))
+  * there are many types of evidence that should be considered when evaluating the effectiveness of a therapy. These include scientific studies, patient feedback and the clinical experience of doctors who have trained in a CAM discipline.  Within Homeopathy there is considerable evidence which can be found ([/evidence/the-evidence-for-homeopathy]/evidence/the-evidence-for-homeopathy/) or ([https://www.hri-research.org/resources/research-databases](https://www.hri-research.org/resources/research-databases/))
 
   * many conventional therapies have inconclusive evidence. Will the CC be conducting a similar consultation on the charitable status of organisations that promote these therapies?
 
@@ -22,7 +22,7 @@ While the BHA feels CAM charities are being unfairly targeted, it will be submit
 
   * removing all therapies or interventions that have inconsistent or inconclusive evidence would seriously limit the medical profession’s  ability to help patients.
 
-  * all over the world, there are doctors, nurses, midwives, vets and other healthcare professional who integrate  CAM therapies into their daily practice because they see effectiveness. They would not use these therapies if they did not see their patients benefitting from them.  For example in the UK, within the NHS hospital setting, outcome studies demonstrate the effectiveness of homeopathy. ([http://localhost/evidence/results-from-the-homeopathic-hospitals](http://localhost/evidence/results-from-the-homeopathic-hospitals/))
+  * all over the world, there are doctors, nurses, midwives, vets and other healthcare professional who integrate  CAM therapies into their daily practice because they see effectiveness. They would not use these therapies if they did not see their patients benefitting from them.  For example in the UK, within the NHS hospital setting, outcome studies demonstrate the effectiveness of homeopathy. ([/evidence/results-from-the-homeopathic-hospitals]/evidence/results-from-the-homeopathic-hospitals/))
 
   * practitioners of many CAM therapies belong to registering bodies which expect their members to comply with the highest professional standards in regards to training and practice
 

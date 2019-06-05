@@ -8,7 +8,7 @@ title = "Finding a homeopathic dentist"
 
 ![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/homeopathic-dentist.jpg)Dental conditions that often respond well to homeopathy include relief from pain, swelling, bruising, dental phobias, nausea, tooth sensitivity, jaw cramping, teething in infants, neuralgia, toothache, bleeding, infection, ulcers and cold sores.
 
-To find a homeopathic dentist in your area use our [practitioner search](http://localhost/treatment/find-a-homeopath/).
+To find a homeopathic dentist in your area use our [practitioner search]/treatment/find-a-homeopath/).
 
 ## Should I tell my usual dentist?
 

@@ -6,6 +6,6 @@ title = "T"
 
 +++
 
-### [Tarentula hispanica](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/t/tarentula-hispanica/)
-[Thuja occidentalis](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/t/thuja-occidentalis/)
-[Thuja](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/t/thuja/) (masterclass)
+### [Tarentula hispanica]/charity/how-we-can-help/articles/homeopathic-medicines/t/tarentula-hispanica/)
+[Thuja occidentalis]/charity/how-we-can-help/articles/homeopathic-medicines/t/thuja-occidentalis/)
+[Thuja]/charity/how-we-can-help/articles/homeopathic-medicines/t/thuja/) (masterclass)

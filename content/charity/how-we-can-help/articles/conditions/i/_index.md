@@ -6,7 +6,7 @@ title = "I"
 
 +++
 
-### [Infertility](http://localhost/charity/how-we-can-help/articles/conditions/i/fertility-problems/)
-[Influenza](http://localhost/charity/how-we-can-help/articles/conditions/i/influenza/)
-[Insomnia](http://localhost/charity/how-we-can-help/articles/conditions/i/insomnia/) (see also [Sleep problems](http://localhost/charity/how-we-can-help/articles/conditions/s/sleep-problems/))
-[Irritable Bowel Syndrome](http://localhost/charity/how-we-can-help/articles/conditions/i/irritable-bowel-syndrome/) (IBS)
+### [Infertility]/charity/how-we-can-help/articles/conditions/i/fertility-problems/)
+[Influenza]/charity/how-we-can-help/articles/conditions/i/influenza/)
+[Insomnia]/charity/how-we-can-help/articles/conditions/i/insomnia/) (see also [Sleep problems](/charity/how-we-can-help/articles/conditions/s/sleep-problems/))
+[Irritable Bowel Syndrome]/charity/how-we-can-help/articles/conditions/i/irritable-bowel-syndrome/) (IBS)

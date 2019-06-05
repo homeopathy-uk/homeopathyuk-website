@@ -25,7 +25,7 @@ NW1 3JN
 0161 923 6602
 [http://www.gmc-uk.org/concerns/index.asp.](http://www.gmc-uk.org/concerns/index.asp)
 
-The same applies to any other professional providing homeopathy. For a full list of the regulatory bodies, see [Regulation](http://localhost/find-a-homeopathic-practitioner/regulation/).
+The same applies to any other professional providing homeopathy. For a full list of the regulatory bodies, see [Regulation]/find-a-homeopathic-practitioner/regulation/).
 
 #### Complaint about a Faculty of Homeopathy member
 
@@ -41,4 +41,4 @@ N1 6AH
 
 #### Complaints about non Faculty members
 
-The other three registering bodies also operate  their own professional standards and disciplinary procedures.  If you are dissatisfied with the quality of homeopathic treatment you have received from a homeopath belonging to one of these  organisations you should contact the relevant registering body. Contact details  for these organisations can be found on their websites which are listed on the BHA’s [Links page](http://localhost/links/).
+The other three registering bodies also operate  their own professional standards and disciplinary procedures.  If you are dissatisfied with the quality of homeopathic treatment you have received from a homeopath belonging to one of these  organisations you should contact the relevant registering body. Contact details  for these organisations can be found on their websites which are listed on the BHA’s [Links page]/links/).

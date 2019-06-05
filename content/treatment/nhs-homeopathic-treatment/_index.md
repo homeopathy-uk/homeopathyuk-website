@@ -18,7 +18,7 @@ Use this section of the website to find out how to get a referral and what to do
 
 ##### ![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/nhs-homeopathic-treatment.jpg)Asking to be referred
 
-If there is a homeopathic GP in your area, you may be able to register with them - use our [practitioner search](http://localhost/find-a-homeopath/find-a-homeopath/) to find out if there is one near you. Otherwise, you will need to ask your current doctor or specialist for a referral to one of the homeopathic hospitals or clinics, or to a homeopathic GP who takes NHS referrals. Your doctor can either use the choose and book system or apply directly to the Primary Care Trust (PCT) or Local Health Board (LHB) on your behalf.
+If there is a homeopathic GP in your area, you may be able to register with them - use our [practitioner search]/find-a-homeopath/find-a-homeopath/) to find out if there is one near you. Otherwise, you will need to ask your current doctor or specialist for a referral to one of the homeopathic hospitals or clinics, or to a homeopathic GP who takes NHS referrals. Your doctor can either use the choose and book system or apply directly to the Primary Care Trust (PCT) or Local Health Board (LHB) on your behalf.
 
 ##### Your GP must take your request seriously
 
@@ -60,8 +60,8 @@ The boards of Primary Care Trusts are required to hold their meetings in public 
 
 #### Giving patients choice
 
-The BHA is committed to the widespread availability of homeopathy across the NHS. For six different ways to help us to keep homeopathy in the NHS, visit our [campaign pages](http://localhost/find-a-homeopath/campaign-for-nhs-homeopathy/).
+The BHA is committed to the widespread availability of homeopathy across the NHS. For six different ways to help us to keep homeopathy in the NHS, visit our [campaign pages]/find-a-homeopath/campaign-for-nhs-homeopathy/).
 
 #### Join us
 
-You can help us to keep homeopathy in the NHS by [joining the BHA as a Friend](http://localhost/charity/support-the-bha/). Your support will allow us to continue our campaigning work and continue to fight for what patients want - a choice of healthcare.
+You can help us to keep homeopathy in the NHS by [joining the BHA as a Friend]/charity/support-the-bha/). Your support will allow us to continue our campaigning work and continue to fight for what patients want - a choice of healthcare.

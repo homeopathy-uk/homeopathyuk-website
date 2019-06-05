@@ -15,11 +15,11 @@ News of forthcoming events will be published on this page and on our social medi
 #### Thursday 2nd November 2017
 6–8:30pm
 
-## [Whisky tasting](http://localhost/events/a-wee-dram-or-three-all-for-a-good-cause/)
+## [Whisky tasting]/events/a-wee-dram-or-three-all-for-a-good-cause/)
 
 The BHA celebrates Scotland's famous beverage by holding a whisky tasting event.
 
-[Find out more](http://localhost/events/a-wee-dram-or-three-all-for-a-good-cause/)
+[Find out more]/events/a-wee-dram-or-three-all-for-a-good-cause/)
 
 [cubeportfolio id="11"]
 

@@ -177,7 +177,7 @@ Take Thuja 30c twice daily for eight weeks. All other remedies 12c twice daily u
 
 **Finding a homeopathic podiatrist…**
 
-  * For a list of homeopathic podiatrists please visit our [Find a Homeopath search page](http://localhost/treatment/find-a-homeopath-search/).
+  * For a list of homeopathic podiatrists please visit our [Find a Homeopath search page]/treatment/find-a-homeopath-search/).
 
   * For NHS treatment you will need a GP referral to Marigold Clinic, Department of Homeopathic Podiatry, The Royal London Hospital for Integrated Medicine
 

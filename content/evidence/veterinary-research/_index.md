@@ -168,7 +168,7 @@ Stillbirth in pigs 18
 
 #### **_BHA research_**
 
-In collaboration with Bristol University Veterinary School, the British Homeopathic Association has published pilot findings of a [research initiative studying atopic dermatitis in dogs](http://localhost/evidence/research-initiative-studying-atopic-dermatitis-in-dogs/).18
+In collaboration with Bristol University Veterinary School, the British Homeopathic Association has published pilot findings of a [research initiative studying atopic dermatitis in dogs]/evidence/research-initiative-studying-atopic-dermatitis-in-dogs/).18
 
 **_References_**__
 

@@ -6,5 +6,5 @@ title = "F"
 
 +++
 
-### [Fagopyrum esculentum](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/f/a-case-for-fagopyrum-esculentum/)
-[Ferrum metallicum](http://localhost/charity/how-we-can-help/articles/homeopathic-medicines/f/ferrum-metallicum/)
+### [Fagopyrum esculentum]/charity/how-we-can-help/articles/homeopathic-medicines/f/a-case-for-fagopyrum-esculentum/)
+[Ferrum metallicum]/charity/how-we-can-help/articles/homeopathic-medicines/f/ferrum-metallicum/)

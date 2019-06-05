@@ -8,7 +8,7 @@ title = "The evidence for homeopathy"
 
 There is a growing body of published research in good quality peer-reviewed journals showing that homeopathy has a positive effect.
 
-This section of the website gives you a straightforward introduction to the kinds of evidence that exist for homeopathy and the range of [conditions along with evidence](http://localhost/evidence/conditions-with-overall-positive-evidence-for-homeopathy/).
+This section of the website gives you a straightforward introduction to the kinds of evidence that exist for homeopathy and the range of [conditions along with evidence]/evidence/conditions-with-overall-positive-evidence-for-homeopathy/).
 
 #### More research needed
 
@@ -30,15 +30,15 @@ The above figures are strikingly similar to data obtained from an analysis of 
 
 The most solid evidence for a treatment comes from critically assessing more than one RCT in a carefully defined way. This is known as a systematic review. Six out of seven major systematic reviews of RCTs in homeopathy have concluded (with important caveats) that homeopathy has an effect greater than placebo.  Systematic reviews of RCTs in specific medical areas have presented positive conclusions for homeopathy in six: **childhood diarrhoea, hay fever, post-operative ileus, respiratory tract infection, rheumatic diseases** and **vertigo** ([see Faculty of Homeopathy website for details](http://facultyofhomeopathy.org/research/systematic-reviews-of-rcts/)).
 
-For full details of all 104 placebo-controlled RCT papers and more in-depth information on the research, visit the research section of the Faculty of Homeopathy’s website.  This includes details of those RCTs that were either negative or non-conclusive. [A grant-funded systematic review programme](http://localhost/systematic-review-programme/) is providing further insight into these research findings.
+For full details of all 104 placebo-controlled RCT papers and more in-depth information on the research, visit the research section of the Faculty of Homeopathy’s website.  This includes details of those RCTs that were either negative or non-conclusive. [A grant-funded systematic review programme]/systematic-review-programme/) is providing further insight into these research findings.
 
 ##### Difficulties and opportunities with RCTs
 
 The RCT model of measuring efficacy of a drug poses some challenges for homeopathic research. In homeopathy, treatment is usually tailored to the individual. A homeopathic prescription is based not only on the symptoms of disease in the patient but also on a host of other factors that are particular to that patient, including lifestyle, emotional health, personality, eating habits and medical history. The “efficacy” of an individualised homeopathic intervention is thus a complex blend of the prescribed medicine together with the other facets of the in-depth consultation and integrated health advice provided by the practitioner; under these circumstances, the specific effect of the homeopathic medicine itself may be difficult to quantify with precision in RCTs.
 
-Nevertheless, in the first phase of [a grant-funded systematic review programme](http://localhost/systematic-review-programme/), examining placebo-controlled trials of individualised treatment across a total of 24 medical conditions, we observed a small overall effect of homeopathy that was statistically significantly greater than that of placebos. These findings cautiously suggest that prescribed homeopathic medicines **do** have specific treatment effects, at least in a majority of the conditions included in our analysis.
+Nevertheless, in the first phase of [a grant-funded systematic review programme]/systematic-review-programme/), examining placebo-controlled trials of individualised treatment across a total of 24 medical conditions, we observed a small overall effect of homeopathy that was statistically significantly greater than that of placebos. These findings cautiously suggest that prescribed homeopathic medicines **do** have specific treatment effects, at least in a majority of the conditions included in our analysis.
 
-An alternative research approach, which the majority of researchers have adopted, is the “one drug fit all patients” type of RCT, akin to a conventional drug trial. Such trials are capable of quantifying efficacy of the homeopathic “drug” under investigation, but they may yield results that are of questionable relevance to the practice of homeopathy in the “real world”. This concern is also being examined in [a grant-funded programme of systematic reviews](http://localhost/systematic-review-programme/).
+An alternative research approach, which the majority of researchers have adopted, is the “one drug fit all patients” type of RCT, akin to a conventional drug trial. Such trials are capable of quantifying efficacy of the homeopathic “drug” under investigation, but they may yield results that are of questionable relevance to the practice of homeopathy in the “real world”. This concern is also being examined in [a grant-funded programme of systematic reviews]/systematic-review-programme/).
 
 ##### Non-randomised studies
 
@@ -46,7 +46,7 @@ There are other types of study that form part of the evidence base for any medic
 
 ##### The experience of patients
 
-Many patients referred for homeopathic treatment have a complexity of health problems. They may suffer from more than one disease. They could be young children or elderly people. They may be pregnant. None of these sorts of patients would be accepted for a drug trial in conventional medicine, so their reactions to treatment are not reflected in the results of RCTs. The recording of clinical data from everyday practice reflects the experiences of real patients and is becoming an increasingly valued part of evidence-based medicine. View [results from the homeopathic hospitals](http://localhost/evidence/results-from-the-homeopathic-hospitals/).
+Many patients referred for homeopathic treatment have a complexity of health problems. They may suffer from more than one disease. They could be young children or elderly people. They may be pregnant. None of these sorts of patients would be accepted for a drug trial in conventional medicine, so their reactions to treatment are not reflected in the results of RCTs. The recording of clinical data from everyday practice reflects the experiences of real patients and is becoming an increasingly valued part of evidence-based medicine. View [results from the homeopathic hospitals]/evidence/results-from-the-homeopathic-hospitals/).
 
 There are 21 non-randomised studies that have focused on a particular medical condition or set of conditions.
 

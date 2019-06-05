@@ -6,14 +6,14 @@ title = "C"
 
 +++
 
-[Chronic fatigue syndrome – patient story](http://localhost/how-we-can-help-you/conditions-a-z/case-study-pathway-to-recovery/)
-[Chronic fatigue syndrome](http://localhost/how-we-can-help-you/conditions-a-z/an-overpowering-tiredness/) (2011)
-[Chronic fatigue syndrome](http://localhost/how-we-can-help-you/conditions-a-z/tired-all-the-time/) (2005)
-[Colds and flu](http://localhost/how-we-can-help-you/conditions-a-z/coughs-and-sneezes-spread-diseases-3/)
+[Chronic fatigue syndrome – patient story]/how-we-can-help-you/conditions-a-z/case-study-pathway-to-recovery/)
+[Chronic fatigue syndrome]/how-we-can-help-you/conditions-a-z/an-overpowering-tiredness/) (2011)
+[Chronic fatigue syndrome]/how-we-can-help-you/conditions-a-z/tired-all-the-time/) (2005)
+[Colds and flu]/how-we-can-help-you/conditions-a-z/coughs-and-sneezes-spread-diseases-3/)
 Colic (in babies)
-[Coughs, colds and flu](http://localhost/how-we-can-help-you/conditions-a-z/coughs-and-sneezes-spread-diseases-4/)
-[Circulatory problems](http://localhost/how-we-can-help-you/conditions-a-z/spotlight-on-circulation/)
-[Cancer](http://localhost/how-we-can-help-you/conditions-a-z/adjustment-and-empowerment/)
-[Cancer](http://localhost/how-we-can-help-you/conditions-a-z/when-orthodox-medicine-has-nothing-more-to-offer/) – female
-[Crohn’s disease ](http://localhost/how-we-can-help-you/conditions-a-z/crohns-disease/)
-[Cystitis ](http://localhost/how-we-can-help-you/conditions-a-z/nipping-cystitis-in-the-bud/)
+[Coughs, colds and flu]/how-we-can-help-you/conditions-a-z/coughs-and-sneezes-spread-diseases-4/)
+[Circulatory problems]/how-we-can-help-you/conditions-a-z/spotlight-on-circulation/)
+[Cancer]/how-we-can-help-you/conditions-a-z/adjustment-and-empowerment/)
+[Cancer]/how-we-can-help-you/conditions-a-z/when-orthodox-medicine-has-nothing-more-to-offer/) – female
+[Crohn’s disease ]/how-we-can-help-you/conditions-a-z/crohns-disease/)
+[Cystitis ]/how-we-can-help-you/conditions-a-z/nipping-cystitis-in-the-bud/)
