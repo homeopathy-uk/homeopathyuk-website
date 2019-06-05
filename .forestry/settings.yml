@@ -15,7 +15,10 @@ sections:
   path: content
   label: Pages
   create: all
-  match: "*"
+  match: "**/*"
+  exclude: posts/**/*
+  templates:
+  - page
 upload_dir: ''
 public_path: https://res.cloudinary.com/homeopathyuk
 front_matter_path: ''
