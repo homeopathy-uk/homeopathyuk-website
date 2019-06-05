@@ -18,4 +18,4 @@ The study clearly shows that the medical problems referred to the hospitals are 
 
 The NHS homeopathic hospitals play a vital role in filling these so-called "effectiveness gaps" in conventional medicine.
 
-In total, the study identified 235 separate medical complaints; a third of follow-up patients reported an improvement after only two appointments. [Read full paper](http://localhost/export/sites/bha_site/research/Five_hospital_study_2008.pdf)
+In total, the study identified 235 separate medical complaints; a third of follow-up patients reported an improvement after only two appointments. [Read full paper]/export/sites/bha_site/research/Five_hospital_study_2008.pdf)

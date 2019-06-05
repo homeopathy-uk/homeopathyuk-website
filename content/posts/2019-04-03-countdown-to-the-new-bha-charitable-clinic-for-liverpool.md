@@ -17,5 +17,5 @@ Cristal Sumner, the BHA’s chief executive, said: “With the limited availabil
 
 An initial consultation at Liverpool Homeopathy is £20 with follow-up sessions costing £10. For more information and to book an appointment please visit [the website](http://www.liverpoolhomeopathy.org/).
 
-The BHA opened its first charitable clinic in Norwich in 2011 and now operates services in Bath, York, Norwich and Edinburgh. Additional services will be announced during 2019. Full details of our clinics can be found [here](http://localhost/treatment/bha-clinics/).
+The BHA opened its first charitable clinic in Norwich in 2011 and now operates services in Bath, York, Norwich and Edinburgh. Additional services will be announced during 2019. Full details of our clinics can be found [here]/treatment/bha-clinics/).
 

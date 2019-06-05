@@ -11,7 +11,7 @@ title = "Notes to assist in completing the NHS England Consultation"
 
 ![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/complete-the-consultation-document-1024x536.jpg)
 
-As part of our [Save Homeopathy and Herbal medicines campaign](http://localhost/bha-blog/save-homeopathy-herbal-medicine/), we know from feedback that the consultation response portal on NHS England’s website is not very helpful and is actually obstructive in easily providing feedback. Many questions are optional, meaning you can skip to the questions you want to answer or feel confident in responding to.
+As part of our [Save Homeopathy and Herbal medicines campaign]/bha-blog/save-homeopathy-herbal-medicine/), we know from feedback that the consultation response portal on NHS England’s website is not very helpful and is actually obstructive in easily providing feedback. Many questions are optional, meaning you can skip to the questions you want to answer or feel confident in responding to.
 
 Once on the website ([NHS England: Items which should not be routinely prescribed in primary care](https://www.engage.england.nhs.uk/consultation/items-routinely-prescribed/consultation/intro/)):
 

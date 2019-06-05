@@ -12,5 +12,5 @@ It's Organic Fortnight, and the [Soil Association](http://www.soilassociation.
 
 Organic food, clothing and the use of homeopathy in farming are some of the subjects likely to crop up. Go to [You Ask, They Answer](http://www.guardian.co.uk/environment/green-living-blog/2009/sep/07/soil-association?commentpage=1&commentposted=1) to ask questions or post your thoughts.
 
-Read about [homeopathy in farming](http://localhost/charity/how-we-can-help/articles/animals/grass-roots-homeopathy/) on our website.
+Read about [homeopathy in farming]/charity/how-we-can-help/articles/animals/grass-roots-homeopathy/) on our website.
 

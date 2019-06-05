@@ -51,6 +51,6 @@ The study is collaborative research between the University of Bristol, the Facul
 
 Hill PB, Hoare J, Lau-Gillard P, Rybnicek J, Mathie RT. Pilot study of the effect of individualised homeopathy on the pruritus associated with atopic dermatitis in dogs. Veterinary Record 2009; 164 (issue 12); March 21.
 
-The British Homeopathic Association promotes homeopathy practised by doctors, vets and other healthcare professionals, funding their education and encouraging high quality research. [www.britishhomeopathic.org](http://localhost/)
+The British Homeopathic Association promotes homeopathy practised by doctors, vets and other healthcare professionals, funding their education and encouraging high quality research. [www.britishhomeopathic.org]/)
 
 The Faculty of Homeopathy trains doctors, vets, nurses, dentists, pharmacists and other healthcare professionals in homeopathic medicine. The Faculty promotes an integrated approach to care across all medical fields, where homeopathy is used to complement conventional medicine.  [www.facultyofhomeopathy.org](http://www.facultyofhomeopathy.org/)

@@ -20,7 +20,7 @@ The report is the result of debate between experts in the fields of medical rese
 
 [Download report from King’s Fund website](http://www.kingsfund.org.uk/)
 
-[The British Homeopathic Association’s research strategy](http://localhost/evidence/our-research-strategy/)
+[The British Homeopathic Association’s research strategy]/evidence/our-research-strategy/)
 
 [The evidence base in homeopathy](http://www.facultyofhomeopathy.org/research/)
 

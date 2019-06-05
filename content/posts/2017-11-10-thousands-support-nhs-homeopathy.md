@@ -13,4 +13,4 @@ The  parliamentary petition to stop NHS England banning doctors from prescribin
 
 If you haven’t already signed the petition, visit [www.petition.parliament.uk/petitions/200154](https://petition.parliament.uk/petitions/200154)
 
-And don’t forget to [write to your MP ](http://localhost/bha-blog/write-mp-nhs-consultation-homeopathy-herbal-medicines/)to let him or her know how strongly you feel about this important issue.
+And don’t forget to [write to your MP ]/bha-blog/write-mp-nhs-consultation-homeopathy-herbal-medicines/)to let him or her know how strongly you feel about this important issue.

@@ -21,5 +21,5 @@ The venue is _St Andrew's & St George’s West Church, 13 George Street, Edinbur
 
 For tickets (£8 / £5), please contact the BHA on [020 3640 5903](tel:020%203640%205903) or email [info@britishhomeopathic.org](mailto:info@britishhomeopathic.org).
 
-For a synopsis, tickets and to see other upcoming UK screening dates, please visit our [Magic Pills](http://localhost/magic-pills-movie/) page, or the [official movie website](https://magicpillsmovie.com/).
+For a synopsis, tickets and to see other upcoming UK screening dates, please visit our [Magic Pills]/magic-pills-movie/) page, or the [official movie website](https://magicpillsmovie.com/).
 

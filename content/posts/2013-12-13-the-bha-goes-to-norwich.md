@@ -22,7 +22,7 @@ The following day the people of Norwich and local healthcare professionals came 
 
 Following the success of our two days in Norwich, the BHA is planning similar events in other parts of the country. If you would like a BHA event to take place in the town or city where you live, please email [info@britishhomeopathic.org](mailto:info@britishhomeopathic.org) with your ideas.
 
-For more information about the BHA’s Norwich homeopathic clinic, please [click here](http://localhost/bha-charity/norwich-homeopathic-clinic/).
+For more information about the BHA’s Norwich homeopathic clinic, please [click here]/bha-charity/norwich-homeopathic-clinic/).
 _Dr. Katalin Borbely speaking at event_
 
 **Lilia Russell**

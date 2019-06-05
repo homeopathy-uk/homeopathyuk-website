@@ -14,7 +14,7 @@ title = "The inquest into the death of Dr Peter Fisher"
 The
 family of Dr Peter Fisher has called upon the Mayor of London to ‘urgently
 address’ cycling safety in the city. Dr Fisher [was
-killed in a collision with a lorry](http://localhost/bha-blog/esteemed-homeopathic-physician-dr-peter-fisher-dies-tragic-accident/) while cycling to work in August 2017. In a statement read out
+killed in a collision with a lorry]/bha-blog/esteemed-homeopathic-physician-dr-peter-fisher-dies-tragic-accident/) while cycling to work in August 2017. In a statement read out
 during the inquest into his death yesterday (9th January), his
 sister Suzie Herne said:
 

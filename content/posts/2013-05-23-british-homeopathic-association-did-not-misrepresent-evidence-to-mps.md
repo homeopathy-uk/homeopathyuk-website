@@ -34,7 +34,7 @@ A transcript of email dialogue with Mr Robbins on 3rd February illustrates the b
 
 **Robbins:**  Can you clarify what you feel the state of the evidence for homeopathy is? Your spokesman in a recent Telegraph article on 10:23 talked of a growing body of evidence, while your recent press release and statement of evidence to the select committee suggest that the body of evidence is generally poor in quality and quantity.
 
-**Mathie:** There is research evidence in a number of medical conditions that homeopathic intervention is effective. [Our written and oral evidence to the select committee](http://localhost/media_centre/news/commons_select_committee_inquiry.html) made that clear. To date, a total of only 142 clinical trials in homeopathy have been published in peer-reviewed journals (compared with an estimated half million in conventional medicine), and so of course more research is required.
+**Mathie:** There is research evidence in a number of medical conditions that homeopathic intervention is effective. [Our written and oral evidence to the select committee]/media_centre/news/commons_select_committee_inquiry.html) made that clear. To date, a total of only 142 clinical trials in homeopathy have been published in peer-reviewed journals (compared with an estimated half million in conventional medicine), and so of course more research is required.
 
 **Robbins:** Why do you think it's been so difficult to produce consistently good results in controlled trials?
 

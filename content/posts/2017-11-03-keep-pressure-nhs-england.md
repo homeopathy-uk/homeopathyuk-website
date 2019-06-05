@@ -9,7 +9,7 @@ title = "Keep the pressure on NHS England"
 
 +++
 
-Thank you to everyone who responded to the NHS England consultation and got involved in our campaign: _[Save Homeopathy and Herbal Medicine](http://localhost/bha-blog/save-homeopathy-herbal-medicine/)_.
+Thank you to everyone who responded to the NHS England consultation and got involved in our campaign: _[Save Homeopathy and Herbal Medicine]/bha-blog/save-homeopathy-herbal-medicine/)_.
 
 As you know, the BHA has--from the outset--questioned the legality of the NHS England consultation which closed on the 21st October. In July, NHS England announced it was consulting on removing 18 treatments from primary care prescribing, including homeopathy. The consultation ended in October and a report will be considered by the NHS England board on 30 November.
 

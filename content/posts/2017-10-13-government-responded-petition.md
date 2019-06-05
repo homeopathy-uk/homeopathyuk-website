@@ -27,7 +27,7 @@ Then, please take a look at the Homeopathy Evidence Check [rebuttal](http://www.
 
 ![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/NHS-England-2017-consultation-infographic-actions-you-can-take-1024x342.jpg)In the new light cast by this report, and with the window on the consultation closing fast (on the 21st October 2017), it is imperative that you act, quickly.
 
-![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/complete-the-consultation-document-300x157.jpg)Complete the [NHS consultation document](https://www.engage.england.nhs.uk/consultation/items-routinely-prescribed/consultation/intro/), while the consultation is still open. You only have until the 21st, then it's too late! Yes, it is a long and complex form, but you don't have to fill it all in. We're here to help, and have prepared a [handy guide](http://localhost/bha-blog/notes-assist-completing-nhs-england-consultation/) to help you complete  the most important sections.
+![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/complete-the-consultation-document-300x157.jpg)Complete the [NHS consultation document](https://www.engage.england.nhs.uk/consultation/items-routinely-prescribed/consultation/intro/), while the consultation is still open. You only have until the 21st, then it's too late! Yes, it is a long and complex form, but you don't have to fill it all in. We're here to help, and have prepared a [handy guide]/bha-blog/notes-assist-completing-nhs-england-consultation/) to help you complete  the most important sections.
 
 ![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/sign-the-petition-mail-newsletter-300x111.jpg)Please support our motion by [signing our petition to parliament](https://petition.parliament.uk/petitions/200154#response-threshold). While there, you can read the government's response in full.
 
@@ -37,5 +37,5 @@ You can [quickly find your local MP and their address](http://www.parliament.uk/
 
 ![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/spread-the-word-mail-newsletter-300x129.jpg)It may seem obvious, but please help spread the word. Tell everyone you think will be interested, by word of mouth, mail, social media or any means you can think of. We have a handy [save homeopathy and herbal medicines pamphlet on our website](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/NHS-England-2017-consultation-infographic-BHA-1.pdf), for you to print out and give your friends.
 
-And, of course, please [contact us](http://localhost/contact/) with any questions you may have.Thank you.
+And, of course, please [contact us]/contact/) with any questions you may have.Thank you.
 

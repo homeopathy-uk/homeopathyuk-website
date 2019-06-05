@@ -14,13 +14,13 @@ Nearly all of the patients (97%) had previously been treated with conventional m
 
 The authors of the study stress that further investigation is needed to clarify to what extent the observed effects are due to lifestyle or other factors associated with the treatment.
 
-Nevertheless, these observations of homeopathy in everyday practice support existing clinical research - there are [three positive randomised controlled trials in sinusitis](http://localhost/evidence/conditions-with-overall-positive-evidence-for-homeopathy/) and a [positive systematic review in upper respiratory tract infections](http://localhost/export/sites/bha_site/research/evidencesummary.pdf).
+Nevertheless, these observations of homeopathy in everyday practice support existing clinical research - there are [three positive randomised controlled trials in sinusitis]/evidence/conditions-with-overall-positive-evidence-for-homeopathy/) and a [positive systematic review in upper respiratory tract infections](/export/sites/bha_site/research/evidencesummary.pdf).
 
 Read more on:
 ENT problems
-[Research in homeopathy](http://localhost/evidence/the-evidence-for-homeopathy/)
+[Research in homeopathy]/evidence/the-evidence-for-homeopathy/)
 [Effects of homeopathy as reported by patients
-](http://localhost/evidence/results-from-the-homeopathic-hospitals/)
+]/evidence/results-from-the-homeopathic-hospitals/)
 
 **Reference**
 

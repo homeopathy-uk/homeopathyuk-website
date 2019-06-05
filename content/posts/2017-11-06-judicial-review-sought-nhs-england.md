@@ -22,4 +22,4 @@ Help the BHA defend patients’ rights by donating toward our legal fees. Thank 
 
 [Pledge to support our Judicial Review hearing](https://www.crowdjustice.com/case/save-homeopathy-on-the-nhs2/)
 
-To learn more about the consultation, the timeline of the campaign since July 2017, and for the latest updates as they happen, please visit our [Save Homeopathy on the NHS](http://localhost/campaign-save-homeopathic-herbal-medicines-nhs/) campaign page.
+To learn more about the consultation, the timeline of the campaign since July 2017, and for the latest updates as they happen, please visit our [Save Homeopathy on the NHS]/campaign-save-homeopathic-herbal-medicines-nhs/) campaign page.

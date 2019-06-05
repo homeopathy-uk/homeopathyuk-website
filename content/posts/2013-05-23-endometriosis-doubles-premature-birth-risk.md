@@ -14,4 +14,4 @@ Endometriosis is where cells that are usually only found in the womb lining (end
 
 Homeopathy can have great results in women suffering from endometriosis:
 
-[Find articles on homeopathy for endometriosis](http://localhost/?s=Endometriosis)
+[Find articles on homeopathy for endometriosis]/?s=Endometriosis)

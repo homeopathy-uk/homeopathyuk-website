@@ -1,0 +1,65 @@
++++
+date = "2013-06-14 08:57:32+00:00"
+old-URL = "/charity/how-we-can-help/articles/homeopathic-medicines/a/arnica-montana"
+slug = "arnica-montana"
+title = "Arnica montana"
+
++++
+
+**one of the best-known homeopathic remedies for bruising has a deeper significance, writes **_**Marysia Kratimenos
+
+**
+
+_Arnica montana is one of the best-known homeopathic remedies. It has been used for several trials to demonstrate the effect of homeopathic remedies on bruising and trauma. Indeed some plastic surgeons swear by it for reducing bruising after cosmetic surgery. Many people are “converted” to the homeopathic cause after seeing spec­tacular results with this humble herb. Arnica montana belongs to the Compo­sitae family, in other words it is a rela­tive of the common daisy. Several of this family of plants are used homeopathi­cally and herbally – Calendula, Chamo­milla, Echinacea, Millefolium (yarrow), Solidago (golden rod) and Taraxacum (dandelion). The star shaped flowers of this botanical family are familiar to us all as sunflowers and ornamental daisies. Other members of the Compositae family include food crops such as lettuce, chicory, globe artichoke and guayule – a source of hypoallergenic latex.
+
+The plants are rich in inulin, a com­pound between sugar and starch that the plants store in their underground organs as a source of energy. It is used as a natural sweetener for diabetics. The Compositae contain selenium and arnica ash is rich in manganese. Both selenium and man­ganese are powerful anti-oxidants in the human body and in addition manganese is an essential element needed for healthy bones, wound-healing, and the meta­bolism of proteins, cholesterol and carbo­hydrates. It may well be that it is this rich source of manganese that facilitates healing, acting in combination with the other plant chemicals. Manganese levels affect the levels of iron, magnesium and calcium in the body. Manganese defic­iency is rarely seen (or recognised) except in individuals fed artificially through their veins. They develop abnormalities in the skeleton, impaired growth and skin rashes.
+
+**Arnica – the plant
+
+**Arnica montana is an alpine plant, grow­ing in nutrient-poor soil. It can poten­tially reach a height of up to 60cm, but this is unusual given the harsh conditions at high altitudes. It grows in meadows up to 3,000 metres above sea level, where it is exposed to strong sunlight. The higher the altitude, the more aro­matic the plant will become.
+
+It is found throughout Europe, but nowadays it is more common to see hybrids of Arnica rather than the pure species growing wild. The natural habitat has been encroached upon by agricul­ture. Arnica cannot grow in areas where fertiliser has been used and aerial fertil­isation has had a huge, negative impact on the wild population in the Voges mountains of France. Arnica grows best in moist, peaty siliceous soils and chalk is harmful even in small quantities.
+
+Arnica is in great demand herbally and homeopathically, which has led to over-harvesting. The World Wildlife Fund (WWF) with other conservation agen­cies has drawn attention to this issue, and thankfully many countries have responded by introducing legislation to protect the species. A license is required to collect the plant in many European countries, but unfortunately this is almost impossible to police so the temptation to make money has taken precedence over the long-term maintenance of natural stock. Only Spain lacks prohibitive laws regarding arnica collection, yet 1,000 to 3,000 kg of wild arnica was imported into Germany from Romania in the period 1989 to 1999 according to figures obtained by WWF.
+
+Responsible companies have attempt­ed to farm arnica to cater for the demand, but it is a tricky plant to cultivate so their results have been mixed. It loves the harshness of its natural habitat and this is very challenging to reproduce com­mercially. Its inborn need to survive has led to cross-breeding in the wild.
+
+**Herbal use
+
+**For centuries arnica montana has been used herbally for bruising and sprains.
+
+Generations of Swiss mountain guides chewed arnica leaves to prevent fatigue induced by climbing. The dried leaves were used as a substitute for tobacco, hence its common name of mountain tobacco. The dried flowers promote sneezing, so it was also known as snuff plant. Fall kraut, fall herb and wound herb, other eponyms, demon­strate the age-old use for the effects of trauma. The flowers are used as a com­press for sprains and bruises. The bright yellow flowers glisten in the sunshine and can resemble the eyes of a wolf from a distance, hence the name Wolfesgelega, wolf’s eye in German. Leopard’s bane is a reference to its wild beauty and elegance, and independent spirit.
+
+The root contains essential oils which are powerful anti–inflammatory agents. The ski resorts are well-versed in the benefits of arnica – massages and body wraps using arnica are readily available in many, and I was highly amused to see a Hotel Arnica in Madonna di Cam­piglio in the Italian Dolomites!
+
+Herbally the plant has been used for traumatic injuries involving bruising, and as a cardiac tonic for weak and weary hearts. It is also used homeo­pathically to support the heart, and for weakness and weariness in the elderly.
+
+Arnica is also used to stimulate the kidneys, but can be quite toxic in herbal solutions. The ingestion of large quanti­ties can cause irritation to the gut; a temp­orary stimulation is followed by a depres­sion of the circulation, respiration and temperature. Violent headaches ensue, the pupils dilate and then muscular par­alysis sets in. The whole nervous system is paralysed and death results. Arnica should be used judiciously on the skin as it can cause nasty irritating rashes.
+
+**Homeopathic use
+
+**Samuel Hahnemann first potentised Arnica montana, recognising its power­ful actions and its potential toxicity. In homeopathy today it is used both herb-ally in the forms of creams and tinctures as well as in the potentised form.
+
+The whole plant is used for the hom­eopathic remedy. The plant is often infested with small insects, betraying its role as a victim. Fungi grow as parasites on the leaves. The plants have to be washed carefully before the remedy can be prepared.
+
+Arnica montana is used as a trauma remedy, a remedy for bruising injuries, but its actions are more widespread than that. As the US homeopathic physician, James Tyler Kent (1849-1916), stated, “It is a wonderful remedy, a misunder­stood remedy, a misused remedy, because it is almost limited to bruises.” Many of the homeopathic trials have relied on Arnica’s ability to heal bruising, ignoring the bigger remedy picture and emotional state. Homeopathic remedies aim to heal at a deeper level than the superficial expression of the body’s imbalance. They are directed at the disease felt on every level, not the mere disease – a label given to the physical disturbance. In some subtle way they allow the person to recognise their behaviour patterns, their “delusions”, and their prejudicial way of viewing the world and take action to change things.
+
+Although Arnica is most commonly used as an acute emergency remedy, one may see the deeper constitutional picture emerge. Arnica is not just a remedy for the bruised body; it is a remedy of the bruised soul. As Massimo Mangialavori so eloquently phrased it, it is a remedy for “someone who doesn’t forget pains”. Indeed the Arnica constitution is one who attracts pain on every level, just as the Staphysagria woman attracts the wife-beater and the Natrum muriaticum girl constantly falls in love with unavail­able men. There is a perverse logic to it all. In repeating our personal histories, we are allowing life to act homeopath­ically to heal our souls. The “why does this always happen to me?” is the first step towards insight and life changes.
+
+In the playground we are constantly told that “sticks and stones may break my bones, but words will never hurt me”. Maybe it is this that causes the Arnica state! Words do have a profound, negative effect on the psyche and Arnica patients suffer with bruised feelings and injured pride, as well as the physical effects of trauma. Like the plant itself, they are victims of the bullies and will often say they’ve been “battered and beaten by life”.
+
+In a desperate attempt to “toughen up” and avoid the bullies, children often mask their physical and emotional injuries – “I’m okay, it didn’t really hurt”. Like the down-trodden daisy they bounce back, stronger, or apparently stronger, than ever. They take the adage “what doesn’t kill you, strengthens you” to the ultimate conclusion. The façade of cop­ing relies heavily on masking the pain, convincing themselves and others that they’ve survived. That they are tough. That they can cope with the bullies. Hence the homeopathic rubric “fears approach”. Using the playground an­alogy, will the attentions of teacher help their situation, or will the bullies reek vengeance for “telling tales”? Despite the anti–bullying policies in place in schools, most victims fear complaining to adults, admitting they are victims, that they can’t cope with “the rough and tumble” of life. And all too often the victim is accused or even blamed. The only rational coping mechanism is to pretend they are strong. “Mind over matter” translates as “I don’t mind and you don’t matter”. Anything else would betray their weakness and make them feel a failure. Arnica’s compensation is fuelled by a need to overcome this sense of failure. They learn to do life alone, relying totally on themselves and hence can appear haughty and intolerant of others in later life.
+
+However, this response often leads to the child ending up as the physical or emotional punch-bag of the aggressor. With no one to listen and protect, their justified anger at the situation becomes channelled into physical activity. Many Arnica patients use vigorous exercise to defuse anger and aggression, the physical pain has an almost cleansing effect on their mood. In fact many admit to being accident-prone. They have a tendency to “prove” themselves by going further, working harder, indulging in dangerous sports and going beyond the limits of endurance without complaint: they take pride in their strength.
+
+Their anger is intense and Arnica is listed under ailments from anger, as well as irritability. The Arnica person can be very snappy indeed, refusing to be exam­ined, declaring themselves to be well when it is perfectly obvious they need medical attention. They are averse to consolation and attention as they fear they might be hurt yet again.
+
+The pain is vividly recalled, as is the accident or incident. There may be terrify­ing nightmares, a post–traumatic stress syndrome may develop. Unlike the Aconite state, where the fear engulfs the person constantly, with Arnica the memories only occur when the conscious mind is unable to suppress the feelings, as in sleep.
+
+It is often the response to pain caused by an accident that guides the practi­tioner to the constitutional Arnica pic­ture. In one case a woman with a minor head injury was prescribed Arnica on the basis of the “Don’t fuss, I’m fine” response to the injury. The patient reported back that the fibromyalgia that had plagued her for years had vanished. She said she used to wake up feeling as if she’d gone ten rounds with Mike Tyson before the Arnica! And more importantly, she became more aware of her tendency to “beat herself up” when­ever things didn’t work out. She had viewed her arthritis as a sign of personal failure, a weakness. Following the pre­scription, she found she was more able to state the limitations of her condition, and give herself the rest she so desper­ately needed. She no longer feared being regarded as weak and feeble, and her attitude to her disease changed dramatically. She was able to ask for much needed help.
+
+A deeper understanding of Arnica is emerging, thanks to the pioneering work of George Vithoulkas, Massimo Mangialavori and Rajan Sankaran to mention but a few. Although it seemed like the perfect remedy to “prove” that homeopathy works to our critics, Arnica has not yet proved its effectiveness in clinical trials. It could be that poor trial design is to blame because the results go against everything that 200 years of homeopathic practice tell us. However opponents of homeopathy have used this as a stick to beat us. But Arnica is Arnica. It has shown its constitutional picture as the victim of the bullies. Its reputation has been bruised, battered by the sceptics. The “it can’t work, so it does not work” approach to homeo­pathy has led to a bruised, battered homeopathic community. But Arnica is a daisy – it will bounce back, as will homeopathy.
+
+**Marysia Kratimenos MB BS FRCS(Ed) FFHom is on the staff of the RLHH where she is involved in stress clinics, general medicine, paediatrics and neurolinguistic programming. She also teaches on the MFHom course and has a private practice.
+
+**

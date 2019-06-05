@@ -16,4 +16,4 @@ Women’s health covers a wide spectrum of conditions affecting women of all age
 
 Many women still seem to be unaware that homeopathy is a viable option for many everyday ailments and that is why the British Homeopathic Association is focusing on this important subject for Homeopathy Awareness Week in 2010.
 
-[Help us spread the message in your local area](http://localhost/charity/campaign-for-nhs-homeopathy/#what-you-can-do-to-help)
+[Help us spread the message in your local area]/charity/campaign-for-nhs-homeopathy/#what-you-can-do-to-help)

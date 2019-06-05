@@ -31,5 +31,5 @@ As you may not know your MP and their address, we're also providing a link to [f
 
     * [Signing the petition to save Homeopathy and Herbal medicines](https://petition.parliament.uk/petitions/200154)
 
-    * Help spread the message to save what you care about on social media at the bottom of this page, or even better, by sharing the whole story at the bottom of our [Save Homeopathic and Herbal medicines infographic](http://localhost/bha-blog/save-homeopathy-herbal-medicine/)
+    * Help spread the message to save what you care about on social media at the bottom of this page, or even better, by sharing the whole story at the bottom of our [Save Homeopathic and Herbal medicines infographic]/bha-blog/save-homeopathy-herbal-medicine/)
 

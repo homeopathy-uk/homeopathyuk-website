@@ -18,4 +18,4 @@ The BHA is still going ahead with its legal challenge calling for a judicial rev
 
 If you want to help the BHA defend NHS homeopathy, you can make a donation towards our legal costs by visiting [www.crowdjustice.com/case/save-homeopathy-on-the-nhs/](https://www.crowdjustice.com/case/save-homeopathy-on-the-nhs/)
 
-Follow our campaign to [save homeopathic, herbal and complementary and alternative medicines on the NHS](http://localhost/campaign-save-homeopathic-herbal-medicines-nhs/).
+Follow our campaign to [save homeopathic, herbal and complementary and alternative medicines on the NHS]/campaign-save-homeopathic-herbal-medicines-nhs/).

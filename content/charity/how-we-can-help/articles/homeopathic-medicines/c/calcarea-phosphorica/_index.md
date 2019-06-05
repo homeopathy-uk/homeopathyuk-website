@@ -1,0 +1,62 @@
++++
+date = "2013-06-14 09:07:54+00:00"
+old-URL = "/charity/how-we-can-help/articles/homeopathic-medicines/c/calcarea-phosphorica"
+slug = "calcarea-phosphorica"
+title = "Calcarea phosphorica"
+
++++
+
+**A combination of two major elements produces an important remedy, writes **_**Jonathan Hardy
+
+**_
+
+Calcarea phosphorica (Calc phos) is a wonderful remedy. It is remark­able that a remedy prepared from a major constituent of the body (calcium phosphate) should have such an inter­esting physical and psychological pro­file homeopathically. The main themes in this remedy have to do with nutrition, deprivation, grief and intellectual study.
+
+A clue about Calc phos is found from our everyday use of calcium phosphate: its main use is in fertilisers and animal feeds (promotion of growth) and in en­amelling, glass manufacture and dental products (reinforcing hard structures). In the human body calcium phosphate is found in bones. The mineralisation of the matrix of the dense outer shell of bones with minute crystals of calcium phosphate makes the bone hard. Calci­um phosphate is the chief constituent of enamel, the extremely hard material covering the crown of teeth.
+
+**Nutrition and development
+
+**Calc phos comes into usefulness at any time in life when nutrition and growth are especially important. It is therefore a major remedy for infants, children at times like dentition and at puberty when there is accelerated growth.
+
+Infants and children needing this remedy tend to have a dark complexion with dark hair and eyes. They are deli­cate, lanky and scrawny. They have a sunken, flabby abdomen. They can be tall and thin, and have been described as looking “like a Chinese noodle”. Calc phos children can be very insecure. They may bite their nails or often put their fingers into the mouth. They want to be carried all the time.
+
+In developing countries this remedy can be applicable for deprivation syn­dromes like marasmus (wasting of the body) and protein-calorie malnutrition. Calc phos infants can also be emaciated due to any physical illness like diarrhoea, amoebiasis, malabsorption or worms. They can suffer with malabsorption states like Coeliac disease. There is a ten­dency to develop brittle, soft, thin and weak bones and children can have grow­ing pains or rickets. There can be late closure of sutures and non-union of frac­tures, imperfect ossification, kyphosis (curvature of the spine), scoliosis (bend­ing of the spine), and late closure of the fontanelles (the sutures between the bones forming the scalp).
+
+Dentition is a time of stress for Calc phos children and can be slow, delayed or simply debilitate the child. These children are unable to assimilate their nutrition properly and may have the peculiar symptom of an aversion to their mother’s milk. They suffer with severe colic with belching. They can have a ravenous appetite but weak digestion with every bite of food hurting the stomach. They are extremely chilly and Calc phos individuals of all ages are sensitive to the cold, draughts, easterly winds and, most characteristically, the air when snow is melting.
+
+There often appears to be a strong emotional causation in the development of the Calc phos state. One authority says these children often have parents who are generally immature and irre­sponsible or who have suffered from severe economic stress or marital dishar­mony. As a result, the child has suffered from emotional deprivation or, in devel­oping countries, also from nutritional deprivation. These children are often, as a result, anxious and nervous with a desire to be carried all the time. They can be hyper-alert, conscious of every move made by the doctor when exam­ined. One characteristic symptom is involuntary sighing, which appears to be as a result of internalised grief. They often can feel guilty, especially when another child is shouted at or re­proached. They can even become violent when this happens. They are sensitive to criticism, timid and lack self-confidence, but can be snappy and abusive.
+
+**Teenagers
+
+**Calc phos is a very important medicine for teenagers. They are stressed nutri­tionally as it is a time of rapid growth. They are also under immense pressure to learn and study which is a major aggravating factor for these individuals. It is a major remedy for headache in schoolchildren and students. It is also a major remedy for loss of motivation caused by diminished energy following too rapid growth or disappointments in love – another sadly common occurrence in teenagers! This can lead to the not-uncommon teenage state of apathy, aggravation from mental and physical exertion, peevishness, obstinacy and in some cases the characteristic sighing.
+
+Another major theme in these indi­viduals is a sense of dissatisfaction, bore­dom and a desire for change and travel. Calc phos is a central remedy of the tubercular miasm which has a core sen­sation of feeling restricted with a strong desire to move and break free. A unique symptom of the remedy is: “Home, desires to go and when there, desires to go out”. In other words, restlessness and cannot find a place where they are at peace.
+
+It is fascinating to analyse why this state should be in the remedy. You can gain an understanding by looking at the constituent parts of the remedy: Calcium and Phosphorus. Calcarea people need to have others around them, they want to be protected because they feel insecure and they find their security within their house and home. On the other hand, Phosphorus people have the feeling of being unloved and uncared for and they compensate for this feeling by being affectionate, friendly and sympathetic. We can therefore see that the Calc phos individual wants to go out and relate to others, meet people, communicate and be affectionate and make friends but at the same time feels insecure and there­fore wants to go home again where they can once again feel safe.
+
+It is also interesting to consider that bone (of which Calc phos is a chief com­ponent) not only provides security and stability, but also facilitates mobility. We move around through muscular action on our skeletal system. Calc phos indi­viduals tend to be very active physically as well as mentally. They are often found to be good sportspeople and love phys­ical exercise. It is interesting that sport often involves the themes of activity, mobility and friendliness – the themes of Calc phos. These people are often of an athletic build – tall and muscular. They tend to be lean.
+
+**Conditions
+
+**As well as the conditions of infants and children I have mentioned, these indi­viduals can suffer with rheumatism, arthritis, hip joint disease, exostoses (growths on bones and joints), traumatic arthritis, tubercular arthritis, osteo­porosis, easy fractures and slow healing of fractures.
+
+A condition I have found this rem­edy very helpful for is Osgood-Schlatter Disease. This causes inflammation and pain in the shinbone at the insertion of the patella tendon of the knee. It is found in teenagers and can often cause them to have to give up sport for several years. I have found Calc phos invariably quickly curative in this condition.
+
+I have also found this remedy very effective in joint diseases and especially in osteo-arthritis of the knees. The indi­cations for its use are the general con­stitutional state of Calc phos and also the modalities of worsening of the joint pain in cold, windy weather. If the left knee is first affected, followed by the right, that is also an indication for this remedy. One of my patients with osteo­arthritis of the knees also had the help­ful symptom of a very strong craving for pork. These individuals tend to like ham fat, pork, bacon, smoked food and salty food. On the other hand they can have weak digestion and they are especially aggravated by ice cream and other cold foods like ice, cold drinks and fruit.
+
+Another strong theme from Calc phos “Aggravation from mental exer­tion and study” can also be understood by looking at its constituent elements. One well-known authority, Jan Scholten, has drawn attention to the Calcium themes of sensitivity to criticism and a feeling of shyness and insecurity while the Phosphorus element has themes of communication, curiosity, travel and learning and study. Putting these two together produces a number of themes, including the idea of being very sensitive to what others feel about their ability to learn and study. He quotes a very inter­esting case of a woman who had never been well since a trauma at the age of twelve. This trauma was that the head of her school told her parents in front of a number of other people that she was not very good at studying and should go to an easy secondary school. From this point she became anxious, lost her playfulness and started developing physical symp­toms, including severe rheumatic pains in her back. Calc phos produced a marked improvement – she felt better and calmer, her backache disappeared and she recovered her previous cheerfulness.
+
+Because of the sensitivity about what others think of their learning capacities, the Calc phos youngster may start to study extremely hard, a subconscious compensation to try and make sure oth­ers do not think they cannot learn or communicate well. They are always busy developing their knowledge and con­tinuously want to see and experience new things. All this work can then lead to headaches and burn-out – with lassi­tude and apathy. Calc phos is one of the main remedies for difficulty waking and I am sure we all know teenagers who cannot get out of bed in the morning! If the child feels that they cannot live up to the expectations they can sometimes give up and withdraw, developing an aversion to school with headaches or stomach aches and then we have another well-known Calc phos rubric: “Desire to go home”.
+
+**Personality type
+
+**Calc phos people are friendly and make friends easily. They love to travel. The characteristic thing is that they tend to make a new home wherever they go – home-making comes from the Calcarea element. Any remedy with Phosphorus as an element will show a strong theme of sympathy and communication and will be found in people for whom friends, family and acquaintances are very important in their lives. Calc phos people can suffer with home-sickness, missing their loved ones when they go away from the home. They can suffer from grief and disappointment in love and their reaction can be one of jealousy and irritability. This is one of the rem­edy types which is very sensitive to injus­tice: children are likely to be heard saying “It’s not fair!” – especially when they feel others have been given more love and attention than they have. They can become intuitive. Perhaps as a means to bypass their limitations – knowing they want to learn and acquire knowl­edge but feeling they lack the energy and strength to acquire it in the usual way. This sensitivity may explain another keynote symptom of Calc phos which is fear of receiving bad news. In one of the original provings by T. F. Allen (a great 19th-century homeopath), one of the provers was described as: “Unpleasant news makes him beside himself. Very much out of humour, disinclined to speak, after disagreeable news.”
+
+One of the most fascinating aspects of homeopathy is that of strange, rare and peculiar symptoms. These are symp­toms that are unique to one specific rem­edy and are completely unpredictable. In other words, by looking at the con­stituent elements of Calcium and Phosphorus we cannot predict the strange, rare or peculiar symptom. The same applies to any remedy and shows how important it is to have provings and clinical observations which are the only means by which we come to peculiar symptoms. Calc phos has some won­derful strange, rare and peculiar symp­toms. One is a strong liking for the colour pink and it is interesting that Calc phos girls often have a strong desire for pink clothing. On the other hand, when they are older they can become tomboys, preferring to climb trees and other out­door pursuits.
+
+Calc phos is one of our most impor­tant remedies. It has provided relief for patients of all ages, physically, emo­tionally and mentally and will, of course, continue to do so.
+
+**Jonathan Hardy MA BM MFHom has been practising homeo­pathy full-time in Hampshire since 1985. He obtained a degree in zoology before studying medicine and has a special interest in animal remedies.
+
+**
+
