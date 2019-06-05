@@ -1,6 +1,7 @@
 +++
 date = "2016-09-22 20:35:40+00:00"
 old-URL = "/charity/how-we-can-help/articles/conditions-a-z/i"
+opengraph_type = "website"
 slug = "i"
 title = "I"
 
