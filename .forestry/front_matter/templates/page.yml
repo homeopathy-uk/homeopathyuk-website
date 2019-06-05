@@ -75,5 +75,5 @@ fields:
   name: opengraph_type
   label: Opengraph type
   config:
-    required: true
+    required: false
   default: website

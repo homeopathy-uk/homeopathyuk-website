@@ -1,11 +1,11 @@
 +++
 date = "2013-05-23 10:06:14+00:00"
 old-URL = "/faqs"
+opengraph_type = "website"
 slug = "faqs"
 title = "FAQs"
 
 +++
-
 ### Which homeopathic qualifications should I look for?
 
 The Faculty of Homeopathy is the only body in the UK which represents medically-qualified homeopaths. The most qualified members of the Faculty have MFHom, FFHom, VetMFHom or VetFFHom after their names. Some homeopathic pharmacists and podiatrists hold the Faculty's Diploma and have DFHom after their names. Licenced Associates of the Faculty of Homeopathy have LFHom after their names - they have achieved a basic level of training in homeopathy. [Find a member of the Faculty of Homeopathy near you.](/treatment/find-a-homeopath-search/)
