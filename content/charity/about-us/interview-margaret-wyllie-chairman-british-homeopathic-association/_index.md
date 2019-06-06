@@ -15,7 +15,7 @@ Many of my former students have kept in touch, and as a result my husband and I 
 
 When my children were small I took some time out from the classroom and kept busy with freelance journalism.
 
-**How has homeopathy benefitted your health?**
+**How has homeopathy benefited your health?**
 
 Following a chronic illness in my late teens and early twenties, which took me in desperation to a homeopathic doctor, I have – apart from the occasional
 accident – been relatively healthy (touch wood!). My GP’s astonishment at the improvement in my health led him to undertake homeopathic training, so my
