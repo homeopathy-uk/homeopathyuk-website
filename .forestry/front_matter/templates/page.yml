@@ -42,12 +42,6 @@ fields:
       format: markdown
   label: Meta description
   description: Metadata description to display in search engine results
-- name: meta_keywords
-  type: text
-  config:
-    required: false
-  description: Metadata keywords to provide to search engines, comma-separated
-  label: Meta keywords
 - type: list
   name: categories
   label: Categories
