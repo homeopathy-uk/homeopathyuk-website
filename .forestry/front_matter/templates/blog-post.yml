@@ -44,12 +44,6 @@ fields:
       format: markdown
   label: Meta description
   description: Metadata description to display in search engine results
-- name: meta_keywords
-  type: text
-  config:
-    required: false
-  label: Meta keywords
-  description: Metadata keywords to provide to search engines
 - name: categories
   type: list
   config:
@@ -83,6 +77,6 @@ fields:
   default: article
 pages:
 - content/posts/about-homeopathy-uk-dummy.md
-- content/HUK NEW COPY /what-is-homeopathy.md
-- content/posts/what-is-homeopathy.md
 - content/posts/how-homeopathy-can-help-dummy.md
+- content/posts/what-is-homeopathy.md
+- content/HUK NEW COPY /what-is-homeopathy.md
