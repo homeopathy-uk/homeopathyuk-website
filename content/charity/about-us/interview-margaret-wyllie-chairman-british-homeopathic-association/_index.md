@@ -6,7 +6,7 @@ title = "Interview with Margaret Wyllie, chairman of the British Homeopathic Ass
 
 +++
 
-![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/RS101_5-ÔÇô-M-Wyllie-02-200x300.jpg)_Margaret Wyllie talks to **Health and Homeopathy **(Winter 2014/15) magazine about why she became so passionate about homeopathy and how she would like to see the BHA develop._
+![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/RS101_5-ÔÇô-M-Wyllie-02-200x300.jpg)_Margaret Wyllie talks to **Health and Homeopathy** (Winter 2014/15) magazine about why she became so passionate about homeopathy and how she would like to see the BHA develop._
 
 **Can you tell the readers a little about your career background?**
 
