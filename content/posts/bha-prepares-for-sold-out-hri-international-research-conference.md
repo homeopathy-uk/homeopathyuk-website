@@ -10,6 +10,8 @@ tags = ["HRI"]
 title = "BHA prepares for sold out HRI International research conference"
 
 +++
+![](https://res.cloudinary.com/homeopathyuk/v1560337224/HRI_LONDON_LOGO.jpg)
+
 The Homeopathy Research Institute’s 4th International Research Conference, “Cutting Edge Research in Homeopathy” takes place in London this Friday to Sunday (14-16 June). Building on the success of previous conferences in Barcelona, Rome and Malta, this year’s sold out event marks the 10 anniversary of the HRI.
 
 Members of the homeopathy community from around the world will gather to meet colleagues and hear presentations from more than 80 experts from 26 countries. Keynote speakers include:
@@ -31,4 +33,4 @@ National Centre for Integrative Medicine, UK
 
 The BHA team will be attending the conference where we will share information about our projects and display artefacts from the Hahnemann House Trust collection
 
-You can find more information about the conference here [https://www.hrilondon2019.org/](https://www.hrilondon2019.org/ "https://www.hrilondon2019.org/")
+You can find more information about the conference [here](https://www.hrilondon2019.org/ "https://www.hrilondon2019.org/")
