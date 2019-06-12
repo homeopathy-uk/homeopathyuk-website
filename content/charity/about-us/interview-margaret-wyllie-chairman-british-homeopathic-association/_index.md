@@ -6,7 +6,7 @@ title = "Interview with Margaret Wyllie, chairman of the British Homeopathic Ass
 
 +++
 
-![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/RS101_5-ÔÇô-M-Wyllie-02-200x300.jpg)_Margaret Wyllie talks to **Health and Homeopathy** (Winter 2014/15) magazine about why she became so passionate about homeopathy and how she would like to see the BHA develop._
+![](https://res.cloudinary.com/homeopathyuk/v1557403245/bha/RS101_5-ÔÇô-M-Wyllie-02.jpg) _Margaret Wyllie talks to **Health and Homeopathy** (Winter 2014/15) magazine about why she became so passionate about homeopathy and how she would like to see the BHA develop._
 
 **Can you tell the readers a little about your career background?**
 
@@ -16,11 +16,9 @@ Many of my former students have kept in touch, and as a result my husband and I 
 
 When my children were small I took some time out from the classroom and kept busy with freelance journalism.
 
-**How has homeopathy benefitted your health?**
+**How has homeopathy benefited your health?**
 
-Following a chronic illness in my late teens and early twenties, which took me in desperation to a homeopathic doctor, I have – apart from the occasional
-accident – been relatively healthy (touch wood!). My GP’s astonishment at the improvement in my health led him to undertake homeopathic training, so my
-family and I have benefitted enormously from the skills of these two doctors.
+Following a chronic illness in my late teens and early twenties, which took me in desperation to a homeopathic doctor, I have – apart from the occasional accident – been relatively healthy (touch wood!). My GP’s astonishment at the improvement in my health led him to undertake homeopathic training, so my family and I have benefitted enormously from the skills of these two doctors.
 
 Many of my contemporaries are taking an array of conventional medicines, most commonly statins. So far, I’ve managed to steer clear of this. I can’t remember if I have ever taken, or needed to take, an antibiotic.
 
