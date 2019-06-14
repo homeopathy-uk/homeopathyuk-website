@@ -76,6 +76,7 @@ fields:
   hidden: false
   default: article
 pages:
+- content/posts/a-celebration-of-the-life-of-dr-peter-fisher.md
 - content/posts/bha-prepares-for-sold-out-hri-international-research-conference.md
 - content/posts/about-homeopathy-uk-dummy.md
 - content/posts/how-homeopathy-can-help-dummy.md
