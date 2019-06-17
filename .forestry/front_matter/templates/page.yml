@@ -71,3 +71,5 @@ fields:
   config:
     required: false
   default: website
+pages:
+- content/homeopathy-uk-staging/homeopathy/how-homeopathy-can-help/how-homeopathy-can-help.md
