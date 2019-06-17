@@ -14,7 +14,7 @@ Homeopathy is a natural form of medicine which uses highly diluted substances to
 
 Homeopathy is concerned with the whole person. A homeopath will be interested in how you feel emotionally as well as your physical symptoms. They will discuss your lifestyle, medical history and state of mind before prescribing the appropriate homeopathic medicine.
 
-**What are homeopathic medicinesmade of?**
+**What are homeopathic medicines made of?**
 
 Homeopathic medicines are made from small amounts of natural substances such as plants and minerals. Prepared in licensed laboratories, under strict control, they are usually taken as a tablet but are also available as liquids, powder or creams.
 
