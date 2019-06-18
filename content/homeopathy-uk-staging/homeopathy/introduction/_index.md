@@ -1,7 +1,6 @@
 +++
 categories = ["Featured articles"]
 date = "2019-06-12T23:00:00+00:00"
-draft = true
 summary = "What is homeopathy? "
 title = "About homeopathy "
 
