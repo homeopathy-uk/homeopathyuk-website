@@ -8,7 +8,7 @@ title = "About homeopathy "
 +++
 **What is homeopathy?**
 
-Homeopathy is a natural form of medicine which uses highly diluted substances to trigger the body’s own healing processes. It is based on the principle “like cures like”. In other words, something that causes symptoms when taken in large amounts can treat those symptoms in smaller doses.
+Homeopathy is a natural form of medicine used by over 200 million people worldwide to treat both acute and chronic conditions. It is based on the principle of ‘like cures like’. In other words, a substance taken in small amounts will cure the same symptoms it causes if taken in large amounts.
 
 **What does homeopathic treatment involve?**
 
