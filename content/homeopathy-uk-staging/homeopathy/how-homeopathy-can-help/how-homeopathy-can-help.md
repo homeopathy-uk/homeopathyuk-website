@@ -1,6 +1,7 @@
 +++
 categories = []
 date = "2019-06-17T14:56:07+00:00"
+draft = true
 featured_image = ""
 meta_description = ""
 meta_document_title = ""
@@ -25,3 +26,16 @@ As well as doctors there are nurses, midwives, dentists, vets, pharmacists, podi
 **Helping pets**
 
 One of the interesting things about homeopathy is that it can have great results in animals. Sceptics often use the argument that homeopathic treatment works because it is all in the mind of the patient. It would be hard to apply this argument to your pet cat or dog!
+
+Link to:
+
+research
+
+clinics
+
+Find a Homeopath
+
+link to common conditions
+
+  
+Vets/ dentists
