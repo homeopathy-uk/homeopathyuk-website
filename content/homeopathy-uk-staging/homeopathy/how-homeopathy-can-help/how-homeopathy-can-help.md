@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2019-06-17T14:56:07+00:00"
-draft = true
 featured_image = ""
 meta_description = ""
 meta_document_title = ""
