@@ -2,7 +2,6 @@ baseURL = "/"
 languageCode = "en-GB"
 title = "Homeopathy UK"
 
-themesDir = "themes"
 theme = "timer-hugo"
 
 [params]
