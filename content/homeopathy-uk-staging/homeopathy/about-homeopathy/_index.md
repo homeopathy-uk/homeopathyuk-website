@@ -5,6 +5,8 @@ summary = "What is homeopathy? "
 title = "About homeopathy "
 
 +++
+<img class="" src="https://res.cloudinary.com/homeopathyuk/image/upload/ar_21:9,c_fill,w_1280,g_south/c_scale,w_auto,dpr_auto/v1560948431/xyyacuw0rxmuevxlkuqu.jpg" />
+
 **What is homeopathy?**
 
 Homeopathy is a natural form of medicine used by over 200 million people worldwide to treat both acute and chronic conditions. It is based on the principle of ‘like cures like’. In other words, a substance taken in small amounts will cure the same symptoms it causes if taken in large amounts.

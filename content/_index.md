@@ -12,9 +12,12 @@ title = "Homeopathy UK"
   </figure>
   <div class="huk-teaser__panel teal-bg white-fg">
     <div class="huk-teaser__panel--inner">
-      <a class="huk-teaser__panel-link" href="/homeopathy-uk-staging/homeopathy/about-homeopathy/">
-        <h2>Homeopathy</h2>
-      </a>
+      <h2>Homeopathy</h2>
+      <hr />
+      <p>Some text...</p>
+      <div class="huk-teaser__cta-button">
+        <a href="/homeopathy-uk-staging/homeopathy/introduction/">Discover Homeopathy</a>
+      </div>
     </div>
   </div>
 </div>
@@ -25,9 +28,12 @@ title = "Homeopathy UK"
   </figure>
   <div class="huk-teaser__panel purple-bg white-fg">
     <div class="huk-teaser__panel--inner">
-      <a class="huk-teaser__panel-link" href="/homeopathy-uk-staging/homeopathy-uk/">
-        <h2>Homeopathy UK</h2>
-      </a>
+      <h2>Homeopathy UK</h2>
+      <hr />
+      <p>Some text...</p>
+      <div class="huk-teaser__cta-button">
+        <a href="/homeopathy-uk-staging/homeopathy-uk/">Homeopathy UK</a>
+      </div>
     </div>
   </div>
 </div>
@@ -38,9 +44,12 @@ title = "Homeopathy UK"
   </figure>
   <div class="huk-teaser__panel blue-bg white-fg">
     <div class="huk-teaser__panel--inner">
-      <a class="huk-teaser__panel-link" href="/homeopathy-uk-staging/treatment/">
-        <h2>Treatment</h2>
-      </a>
+      <h2>Treatment</h2>
+      <hr />
+      <p>Some text...</p>
+      <div class="huk-teaser__cta-button">
+        <a href="/homeopathy-uk-staging/treatment/">Treatment</a>
+      </div>
     </div>
   </div>
 </div>
@@ -51,9 +60,12 @@ title = "Homeopathy UK"
   </figure>
   <div class="huk-teaser__panel green-bg white-fg">
     <div class="huk-teaser__panel--inner">
-      <a class="huk-teaser__panel-link" href="/homeopathy-uk-staging/news/">
-        <h2>News</h2>
-      </a>
+      <h2>News</h2>
+      <hr />
+      <p>Some text...</p>
+      <div class="huk-teaser__cta-button">
+        <a href="/homeopathy-uk-staging/news/">News</a>
+      </div>
     </div>
   </div>
 </div>
@@ -64,9 +76,12 @@ title = "Homeopathy UK"
   </figure>
   <div class="huk-teaser__panel gold-bg white-fg">
     <div class="huk-teaser__panel--inner">
-      <a class="huk-teaser__panel-link" href="/homeopathy-uk-staging/links/">
-        <h2>Links</h2>
-      </a>
+      <h2>Links</h2>
+      <hr />
+      <p>Some text...</p>
+      <div class="huk-teaser__cta-button">
+        <a href="/homeopathy-uk-staging/links/">Links</a>
+      </div>
     </div>
   </div>
 </div>
