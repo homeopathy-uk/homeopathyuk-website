@@ -1,47 +1,23 @@
-{{ partial "header.html" . }}
+{{ define "header_css" }}{{ end }} {{ define "body_classes" }}{{ end }}
+{{ define "header_classes" }}{{ end }}
 
-{{ partial "page-title.html" . }}
+{{ define "main" }}
 
-<section id="blog-full-width">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                {{ range .Data.Pages }}
-                <article class="wow fadeInDown" data-wow-delay=".3s" data-wow-duration="500ms">
-                    
-                    <div class="blog-post-image">
-                        <a href="{{ .Permalink }}">
-                             {{ with .Params.image }}<img class="img-fluid" src="{{ . | absURL }}" alt="post-image"/>{{ end }}
-                        </a>
-                    </div>
-                    <div class="blog-content">
-                        <h2 class="blogpost-title">
-                            <a href="{{ .Permalink }}">{{ .Title }}</a>
-                        </h2>
-                        <div class="blog-meta">
-                            <span>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</span>
-                            {{ with .Params.author }}<span>by
-                                {{ . }}
-                            </span>
-                            {{ end }}
-                            {{ with .Params.tags }}
-                            <span>
-                                {{ delimit . ", " }}
-                            </span>
-                            {{ end }}
-                        </div>
-                        <p>
-                            {{ .Summary }}
-                        </p>
-                        {{ with .Permalink }}<a href="{{ . }}" class="btn btn-dafault btn-details hvr-bounce-to-right">Continue Reading</a>{{ end }}
-                    </div>
-                </article>
-                {{ end }}
-            </div>
-        </div>
+<div class="container pt-10 pb-6">
+  <div class="row">
+    <div class="col-12">
+      <h1 class="title-1 black">{{ .Title }}</h1>
+      {{ .Content }}
     </div>
-</section>
+  </div>
+</div>
 
-{{ partial "cta.html" . }}
+<div class="container pb-6">
+  <div class="row">
+    {{ range.Pages }}
+    <div class="col-12 col-md-6 mb-2 ">{{.Content}}</div>
+    {{ end }}
+  </div>
+</div>
 
-{{ partial "footer.html" . }}
+{{ end }}
