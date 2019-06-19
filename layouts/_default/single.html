@@ -1,18 +1,40 @@
-{{ define "header_css" }}{{ end }}
-{{ define "body_classes" }}page-default-single{{ end }}
-{{ define "header_classes" }}{{ end }}
+{{ partial "header.html" . }}
 
-{{ define "main" }}
-<div class="strip">
-  <div class="container pt-4 pt-md-10">
-    <div class="row justify-content-start">
-      <div class="col-12 col-md-8">
-        <div class="service service-single">
-          <h1 class="title">{{.Title}}</h1>
-          <div class="content">{{.Content}}</div>
+<section class="global-page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h2>{{ .Title }}</h2>
+                    <div class="portfolio-meta">
+                        <span>{{ dateFormat "Monday, Jan 2, 2006" .Date }}</span>|
+                        <span> Tags:
+                            {{ if ne .Params.tags nil }}{{ delimit .Params.tags ", " }}{{ end }}
+                        </span>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
-</div>
-{{ end }}
+</section>
+
+<section class="single-post">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                {{ with .Params.image }}
+                <div class="post-img">
+                    <img class="img-fluid" alt="" src="{{ . | absURL }}">
+                </div>
+                {{ end }}
+                <div class="post-content">
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ partial "cta.html" . }}
+
+{{ partial "footer.html" . }}

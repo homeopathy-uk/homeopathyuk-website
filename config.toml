@@ -3,7 +3,7 @@ languageCode = "en-GB"
 title = "Homeopathy UK"
 
 themesDir = "themes"
-theme = "hugo-serif-theme"
+theme = "timer-hugo"
 
 [params]
   google_analytics_id=""
