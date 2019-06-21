@@ -5,7 +5,6 @@ summary = "What is homeopathy? "
 title = "About homeopathy "
 
 +++
-<img class="" src="https://res.cloudinary.com/homeopathyuk/image/upload/ar_21:9,c_fill,w_1280,g_south/c_scale,w_auto,dpr_auto/v1560948431/xyyacuw0rxmuevxlkuqu.jpg" />
 
 **What is homeopathy?**
 
