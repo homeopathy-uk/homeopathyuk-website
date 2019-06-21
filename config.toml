@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-gb"
 languageLang = "en"
 title = "Homeopathy UK"
+themesDir = "themes"
 theme = "hugo-hero-theme"
 logo = "HUK-logo.jpg"
 
